@@ -12,7 +12,7 @@ description: >-
 
 To create an armor class, find (or create) the _GameName/Resources/GameName/ArmorClass_ folder in the project tab and right click.  Choose _Create > AnyRPG > ArmorClass_.
 
-![](<../.gitbook/assets/image (105).png>)
+![](<../.gitbook/assets/image (105) (1).png>)
 
 ## Properties
 
