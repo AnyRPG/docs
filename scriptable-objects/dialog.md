@@ -1,0 +1,29 @@
+---
+description: >-
+  Dialogs allow AI characters to talk, either through a dialog window in
+  conversation with a player character, or via a monologue that shows in a popup
+  above the character's head.
+---
+
+# Dialog
+
+## Creation
+
+To create a dialog, find (or create) the _GameName/Resources/GameName/Dialog_ folder in the project tab and right click.  Choose _Create > AnyRPG > Dialog > Dialog_.
+
+![](<../.gitbook/assets/image (126).png>)
+
+## Properties
+
+| Name                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Automatic               | If true, this dialog will play in a speech bubble above a character's head, and advance automatically based on the timing in the _Dialog Nodes_.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Repeatable              | If true, the dialog can be played more than once.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Audio Profile Name      | The name of an audio profile that contains audio profiles to play for each _Dialog Node_.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Dialog Nodes            | <p>A list of dialog text with optional timings for automatic play, and optional text defining what will show on the next button for manual dialogs.<br><strong>Start Time</strong><br>The time, in seconds after the dialog is activated, that this dialog node should begin displaying, if the dialog is automatic.<br><strong>Show Time</strong><br>The time, in seconds, that the dialog should remain active, if the dialog is automatic.<br><strong>Description</strong><br>The text to show in the dialog window or speech bubble.<br><strong>Next Option</strong><br>If the dialog is manual, this text will show on the button that causes the dialog to proceed to the next <em>Dialog Node</em>.</p> |
+| Prerequisite Conditions | A list of [Prerequisite Conditions](../shared-properties/prerequisite-conditions.md).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+## Next Steps
+
+* Add a dialog to a [Dialog Interactable Option](interactable-option-configurations/dialog-config.md) so it can be started manually by the player.
+* Configure a [Behavior](behavior-profile.md) to play a dialog.
