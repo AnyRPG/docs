@@ -68,7 +68,7 @@ In the case of the spine and hip attachments, you can move/rotate the attachment
 
 ![](<../.gitbook/assets/image (72).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Once everything looks properly aligned, you can disable the weapon previews and save your changes.  When the character equips weapons in-game they should now have the correct positioning and alignment.&#x20;
 
