@@ -11,7 +11,7 @@ description: >-
 
 To create an item quality, find (or create) the _GameName/Resources/GameName/ItemQuality_ folder in the project tab and right click.  Choose _Create > AnyRPG > ItemQuality_.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (117).png>)
 
 
 
