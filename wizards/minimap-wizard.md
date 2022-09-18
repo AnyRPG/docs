@@ -16,7 +16,7 @@ The Minimap Wizard can be opened by clicking _Tools_ in the menu bar, and select
 
 ![](<../.gitbook/assets/image (8).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## Settings
 
