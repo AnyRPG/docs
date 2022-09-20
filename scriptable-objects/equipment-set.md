@@ -10,7 +10,7 @@ description: >-
 
 To create an equipment set, find (or create) the _GameName/Resources/GameName/EquipmentSet_ folder in the project tab and right click.  Choose _Create > AnyRPG > EquipmentSet_.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 
 

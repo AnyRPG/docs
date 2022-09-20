@@ -32,5 +32,5 @@ Action effect Items are a type of item.  See [Items](./) for their base properti
 ## Next Steps
 
 * Add an action effect item to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
-* Add an action effect item to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add an action effect item to a [Loot Table](../loot-table.md) so that it can drop upon defeat of an enemy.
 * Add an action effect item as an output to a [Recipe](recipe.md) so that it can be crafted.

@@ -8,7 +8,7 @@ description: A weapon is a type of equipment that does damage to an enemy when u
 
 To create a weapon, find (or create) the _GameName/Resources/GameName/Item/Equipment_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Equipment > Weapon_.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Properties
 
@@ -34,7 +34,7 @@ In addition to the properties shared by all [Equipment](equipment.md), weapons h
 * Configure a [Character Class](../character-class.md)' _Equipment Names_ list to provide this weapon to newly created characters of that class.
 * Configure a [Character Race](../character-race.md)'s _Equipment Names_ list to provide this weapon to newly created characters of that race.
 * Configure a [Class Specialization](../class-specialization.md)'s _Equipment Names_ list to provide this weapon to a newly created characters of that specialization.
-* Add a weapon to a [Loot Table](../loot-table/) so that it can drop when an enemy is defeated.
+* Add a weapon to a [Loot Table](../loot-table.md) so that it can drop when an enemy is defeated.
 * Add a weapon to a [Vendor Collection](../vendor-collection.md) and make it available on a vendor.
 * Add a weapon to an [Equipment Set](../equipment-set.md) to give it unique set bonuses when one or more pieces of a set are equipped.
 * Add a weapon as an output to a [Recipe](recipe.md) so that it can be crafted.

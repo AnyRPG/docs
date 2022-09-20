@@ -10,7 +10,7 @@ description: >-
 
 To create food, find (or create) the _GameName/Resources/GameName/Item_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Food_.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Properties
 
@@ -31,5 +31,5 @@ In addition to the properties shared by all [Items](./), food has the following 
 ## Next Steps
 
 * Add food to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
-* Add food to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add food to a [Loot Table](../loot-table.md) so that it can drop upon defeat of an enemy.
 * Add food as an output to a [Recipe](recipe.md) so that it can be crafted.

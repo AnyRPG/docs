@@ -24,5 +24,5 @@ In addition to the properties shared by all [Items](./), bags have the following
 
 * Configure the _Default Backpack Item_ field in the System Configuration Manager of a game to make this bag the default backpack for a new player.
 * Add a bag to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
-* Add a bag to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add a bag to a [Loot Table](../loot-table.md) so that it can drop upon defeat of an enemy.
 * Add a bag as an output of a [Recipe](recipe.md) so it can be crafted.

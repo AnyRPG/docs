@@ -24,5 +24,5 @@ In addition to the properties shared by all [Items](./), currency items have the
 ## Next Steps
 
 * Add a currency item to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
-* Add a currency item to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add a currency item to a [Loot Table](../loot-table.md) so that it can drop upon defeat of an enemy.
 

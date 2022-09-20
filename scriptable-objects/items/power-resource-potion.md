@@ -28,5 +28,5 @@ Power resource potions are a type of item.  See [Items](./) for their base prope
 ## Next Steps
 
 * Add a power resource potion to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
-* Add a power resource potion to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add a power resource potion to a [Loot Table](../loot-table.md) so that it can drop upon defeat of an enemy.
 * Add a power resource potion as an output to a [Recipe](recipe.md) so that it can be crafted.

@@ -8,7 +8,7 @@ description: Equipment is any type of item that can be equipped on a character.
 
 To create equipment, find (or create) the _GameName/Resources/GameName/Item/Equipment_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Equipment > Equipment_.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ## Properties
 
@@ -37,7 +37,7 @@ In addition to the properties shared by all [Items](./), equipment has the follo
 * Configure a [Character Class](../character-class.md)' _Equipment Names_ list to provide this equipment to newly created characters of that class.
 * Configure a [Character Race](../character-race.md)'s _Equipment Names_ list to provide this equipment to newly created characters of that race.
 * Configure a [Class Specialization](../class-specialization.md)'s _Equipment Names_ list to provide this equipment to a newly created characters of that specialization.
-* Add equipment to a [Loot Table](../loot-table/) so that it can drop when an enemy is defeated.
+* Add equipment to a [Loot Table](../loot-table.md) so that it can drop when an enemy is defeated.
 * Add equipment to a [Vendor Collection](../vendor-collection.md) and make it available on a vendor.
 * Add equipment to an [Equipment Set](../equipment-set.md) to give it unique set bonuses when one or more pieces of a set are equipped.
 * Add equipment as an output to a [Recipe](recipe.md) so that it can be crafted.
