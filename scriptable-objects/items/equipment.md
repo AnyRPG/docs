@@ -40,4 +40,4 @@ In addition to the properties shared by all [Items](./), equipment has the follo
 * Add equipment to a [Loot Table](../loot-table/) so that it can drop when an enemy is defeated.
 * Add equipment to a [Vendor Collection](../vendor-collection.md) and make it available on a vendor.
 * Add equipment to an [Equipment Set](../equipment-set.md) to give it unique set bonuses when one or more pieces of a set are equipped.
-* Add equipment as an output to a [Recipe](recipe.md) so that it can be crafted.
+* Add equipment as an output to a [Recipe](../recipe.md) so that it can be crafted.
