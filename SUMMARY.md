@@ -123,7 +123,7 @@
 * [Prefab Profile](scriptable-objects/prefab-profile.md)
 * [Quest](scriptable-objects/quest.md)
 * [Quest Giver Profile](scriptable-objects/quest-giver-profile.md)
-* [Recipe](scriptable-objects/recipe.md)
+* [Recipe](scriptable-objects/items/recipe.md)
 * [Resource Description](scriptable-objects/resource-description.md)
 * [Scene Node](scriptable-objects/scene-node.md)
 * [Scriptable Content Template](scriptable-objects/scriptable-content-template.md)
