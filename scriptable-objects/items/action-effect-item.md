@@ -12,7 +12,7 @@ description: >-
 
 To create an action effect item, find (or create) the _GameName/Resources/GameName/Item_ folder in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Action Effect Item_.
 
-![](<../../.gitbook/assets/image (118).png>)
+![](<../../.gitbook/assets/image (118) (1).png>)
 
 ## Properties
 
@@ -29,3 +29,8 @@ Action effect Items are a type of item.  See [Items](./) for their base properti
 | Effect Name       | If _Inline Effect_ is false the Ability Effect with this name will be cast.                                                                                                                                                                                                                                                                           |
 | Inline Effect     | Ability Effect properties to cast when the item is used if _Use Inline Effect_ is true.                                                                                                                                                                                                                                                               |
 
+## Next Steps
+
+* Add an action effect item to a [Vendor Collection](../vendor-collection.md) so it can be purchased from a [Vendor](../interactable-option-configurations/vendor-config.md).
+* Add an action effect item to a [Loot Table](../loot-table/) so that it can drop upon defeat of an enemy.
+* Add an action effect item as an output to a [Recipe](recipe.md) so that it can be crafted.
