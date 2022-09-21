@@ -9,7 +9,7 @@ description: >-
 
 ## Creation
 
-Unlike most scriptable object, a scriptable object template itself is not loaded into memory because it contains configuration information for installing content.  This means it can be created in any folder and should definitely not be located in a _Resources_ folder or any subfolder of a resources folder. To create one, setup a folder that is not a child of a _Resources_ folder right click.  Choose _Create > AnyRPG > Scriptable Content Template_.
+Unlike most scriptable objects, a scriptable content template itself is not loaded into memory because it contains configuration information for installing content.  This means it can be created in any folder and should definitely not be located in a _Resources_ folder or any subfolder of a resources folder. To create one, setup a folder that is not a child of a _Resources_ folder and right click.  Choose _Create > AnyRPG > Scriptable Content Template_.
 
 ![](<../.gitbook/assets/image (111).png>)
 
