@@ -10,7 +10,7 @@ description: >-
 
 To create a prefab profile, find (or create) the _GameName/Resources/GameName/PrefabProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > PrefabProfile_.
 
-![](<../.gitbook/assets/image (1) (3).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ## Properties
 

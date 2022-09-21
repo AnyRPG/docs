@@ -10,7 +10,7 @@ description: >-
 
 To create an environment state profile, find (or create) the _GameName/Resources/GameName/EnvironmentStateProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > EnvironmentState_.
 
-![](<../.gitbook/assets/image (129).png>)
+![](<../.gitbook/assets/image (129) (1).png>)
 
 ## Properties
 
