@@ -7,4 +7,4 @@ The most important settings are:
 
 The full settings matrix is below.
 
-<img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="original">
