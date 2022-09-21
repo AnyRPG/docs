@@ -10,7 +10,7 @@ description: >-
 
 To create a recipe, find (or create) the _GameName/Resources/GameName/Recipe_ folder in the project tab and right click.  Choose _Create > AnyRPG > Recipes > Recipe_.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](<../../.gitbook/assets/image (114).png>)
 
 ## Properties
 

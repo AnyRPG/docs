@@ -10,7 +10,7 @@ description: Gain item commands add items to the players inventory.
 
 To create a gain item command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click. Choose _Create > AnyRPG > Chat Commands > Gain Item Command_.​​​
 
-![](<../../.gitbook/assets/image (111).png>)
+![](<../../.gitbook/assets/image (111) (1).png>)
 
 ## Properties
 
