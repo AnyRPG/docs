@@ -10,7 +10,7 @@ description: >-
 
 To create a unit toughness, find (or create) the _GameName/Resources/GameName/UnitToughness_ folder in the project tab and right click.  Choose _Create > AnyRPG > UnitToughness_.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (4).png>)
 
 ## Properties
 
