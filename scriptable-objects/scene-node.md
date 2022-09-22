@@ -10,7 +10,7 @@ description: >-
 
 To create a scene node, find (or create) the _GameName/Resources/GameName/SceneNode_ folder in the project tab and right click.  Choose _Create > AnyRPG > SceneNodes > SceneNode_.
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (1).png>)
 
 ## Properties
 
