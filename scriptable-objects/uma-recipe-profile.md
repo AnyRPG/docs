@@ -10,7 +10,7 @@ description: >-
 
 To create an UMA recipe profile, find (or create) the _GameName/Resources/GameName/UMARecipeProfile_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > UMARecipeProfile_.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 ## Properties
 
