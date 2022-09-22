@@ -10,13 +10,13 @@ description: >-
 
 To create a status effect group, find (or create) the _GameName/Resources/GameName/StatusEffectGroup_ folder in the project tab and right click.  Choose _Create > AnyRPG > StatusEffectGroup_.
 
-![](<../.gitbook/assets/image (7).png>)
+![](../.gitbook/assets/image.png)
 
 ## Properties
 
-| Name             | Description                                                                                                                                                                                                                                                                |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Exclusive Option | <p>An enumeration of options controlling how effects are blocked are overwritten.<br><strong>Last</strong><br>The most recent effect always overwrites any earlier effects.<br><strong>First</strong><br>The first effect blocks any other effects from being applied.</p> |
+| Name             | Description                                                                                                                                                                                                                                                                                                                      |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exclusive Option | <p>An enumeration of options controlling how <a href="ability-effects/status-effect.md">Status Effects</a> are blocked are overwritten.<br><strong>Last</strong><br>The most recent effect always overwrites any earlier effects.<br><strong>First</strong><br>The first effect blocks any other effects from being applied.</p> |
 
 ## Next Steps
 
