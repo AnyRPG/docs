@@ -8,7 +8,7 @@ description: A skill allows you to learn abilities that let you gather or craft 
 
 To create a skill, find (or create) the _GameName/Resources/GameName/Recipe_ folder in the project tab and right click.  Choose _Create > AnyRPG > Skills > Skill_.
 
-![](<../.gitbook/assets/image (1) (2) (2).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 ## Properties
 

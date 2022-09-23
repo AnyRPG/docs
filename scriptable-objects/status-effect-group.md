@@ -10,7 +10,7 @@ description: >-
 
 To create a status effect group, find (or create) the _GameName/Resources/GameName/StatusEffectGroup_ folder in the project tab and right click.  Choose _Create > AnyRPG > StatusEffectGroup_.
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 ## Properties
 
