@@ -11,7 +11,7 @@ description: >-
 
 To create a weapon skill, find (or create) the _GameName/Resources/GameName/WeaponSkill_ folder in the project tab and right click.  Choose _Create > AnyRPG > WeaponSkill_.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 ## Properties
 
