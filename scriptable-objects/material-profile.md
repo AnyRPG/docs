@@ -8,7 +8,7 @@ description: A material profile stores a link to a Unity material on disk.
 
 To create a material profile, find (or create) the _GameName/Resources/GameName/MaterialProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > MaterialProfile_.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (3).png>)
 
 
 
