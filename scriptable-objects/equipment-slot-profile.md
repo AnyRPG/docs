@@ -11,7 +11,7 @@ description: >-
 
 To create an equipment set, find (or create) the _GameName/Resources/GameName/EquipmentSlotProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > Equipment> EquipmentSlot_.
 
-![](<../.gitbook/assets/image (101).png>)
+![](<../.gitbook/assets/image (101) (1).png>)
 
 
 

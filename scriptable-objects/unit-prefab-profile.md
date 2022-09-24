@@ -10,7 +10,7 @@ description: >-
 
 To create a unit prefab profile, find (or create) the _GameName/Resources/GameName/UnitPrefabProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > UnitPrefabProfile_.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 ## Properties
 
