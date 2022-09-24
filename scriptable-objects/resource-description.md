@@ -11,7 +11,7 @@ description: >-
 
 To create a resource description, find (or create) the _GameName/Resources/GameName/ResourceDescription_ folder in the project tab and right click.  Choose _Create > AnyRPG > ResourceDescription_.
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98) (3).png>)
 
 ## Properties
 

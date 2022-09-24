@@ -10,7 +10,7 @@ description: >-
 
 To create a behavior config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > BehaviorConfig_.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (134).png>)
 
 ## Properties
 
