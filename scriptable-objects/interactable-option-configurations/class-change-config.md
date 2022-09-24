@@ -1,7 +1,7 @@
 ---
 description: >-
-  A class change config allows the character to open the class change window,
-  which allows the player to change their character class.
+  A class change config creates a class change interactable option, which opens
+  the class change window, allowing the player to change their character class.
 ---
 
 # Class Change Config
@@ -10,7 +10,7 @@ description: >-
 
 To create a behavior config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > ClassChangeConfig_.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Properties
 

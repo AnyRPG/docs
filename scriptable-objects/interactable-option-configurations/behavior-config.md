@@ -1,7 +1,7 @@
 ---
 description: >-
-  A behavior config creates a behavior interactable options, allowing automatic
-  or player initiated behaviors to be run by a character.
+  A behavior config creates behavior interactable options, allowing automatic or
+  player initiated behaviors to be run by a character.
 ---
 
 # Behavior Config
@@ -10,7 +10,7 @@ description: >-
 
 To create a behavior config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > BehaviorConfig_.
 
-![](<../../.gitbook/assets/image (101).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Properties
 

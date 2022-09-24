@@ -1,7 +1,8 @@
 ---
 description: >-
-  A character creator config allows a character to open the character creator
-  window, giving the player the ability to change their appearance.
+  A character creator config creates a character creator interactable option,
+  which allows a character to open the character creator window, giving the
+  player the ability to change their appearance.
 ---
 
 # Character Creator Config
@@ -10,7 +11,7 @@ description: >-
 
 To create a character creator config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > CharacterCreatorConfig_.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ## Properties
 

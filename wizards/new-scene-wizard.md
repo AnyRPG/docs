@@ -87,4 +87,4 @@ By default, the player will spawn at the world origin (0,0,0).  To make the play
 
 Decide what other scenes the player should be able to travel to this scene from and add portals to them.  The New Scene Wizard created a portal prefab to use, so find it and drag it into the other scene(s).
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
