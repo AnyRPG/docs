@@ -37,7 +37,7 @@ See [Animation Profile Configuration](../scriptable-objects/animation-profile.md
 
 After assigning the appropriate animations, click Create.
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/image (110) (1).png>)
 
 ### Scriptable Objects
 
