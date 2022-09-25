@@ -10,7 +10,7 @@ description: Power resource potions refill power resources and perform animated 
 
 To create a power resource potion, find (or create) the _GameName/Resources/GameName/Item_ folder in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Power Resource Potion_.
 
-![](<../../.gitbook/assets/image (107) (1).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 ## Properties
 

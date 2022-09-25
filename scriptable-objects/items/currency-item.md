@@ -10,7 +10,7 @@ description: >-
 
 To create a currency item, find (or create) the _GameName/Resources/GameName/Item_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Currency Item_.
 
-![](<../../.gitbook/assets/image (2) (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (2).png>)
 
 ## Properties
 

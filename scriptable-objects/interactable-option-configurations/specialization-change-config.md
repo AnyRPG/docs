@@ -11,7 +11,7 @@ description: >-
 
 To create a specialization change config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > SpecializationChangeConfig_.
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ## Properties
 

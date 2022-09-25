@@ -11,7 +11,7 @@ description: >-
 
 To create an attachment profile, find (or create) the _GameName/Resources/GameName/AttachmentProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > AttachmentProfile_.
 
-![](<../.gitbook/assets/image (102) (1).png>)
+![](<../.gitbook/assets/image (102).png>)
 
 ## Properties
 
