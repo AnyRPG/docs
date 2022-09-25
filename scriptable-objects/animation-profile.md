@@ -12,7 +12,7 @@ description: >-
 
 To create an animation profile, find (or create) the _GameName/Resources/GameName/AnimationProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > Animation > Profile_.
 
-![](<../.gitbook/assets/image (116) (1).png>)
+![](<../.gitbook/assets/image (116).png>)
 
 ## Properties
 
