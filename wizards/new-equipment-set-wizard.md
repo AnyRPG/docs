@@ -96,7 +96,7 @@ You can add the gear to a vendor by adding it to the _Vendor Collection Names_ l
 
 ![](<../.gitbook/assets/image (130).png>)
 
-![](<../.gitbook/assets/image (124).png>)
+![](<../.gitbook/assets/image (124) (1).png>)
 
 ### Make Gear Lootable
 

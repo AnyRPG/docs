@@ -10,7 +10,7 @@ description: >-
 
 To create a cutscene config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > CutsceneConfig_.
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (100) (2).png>)
 
 ## Properties
 
