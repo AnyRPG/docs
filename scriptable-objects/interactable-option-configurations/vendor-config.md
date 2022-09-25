@@ -10,7 +10,7 @@ description: >-
 
 To create a vendor config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > VendorConfig_.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/image.png)
 
 ## Properties
 

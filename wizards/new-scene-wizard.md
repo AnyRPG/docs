@@ -39,7 +39,7 @@ After choosing the appropriate options for the scene, click Create.
 
 In the _Prefab/Portal_ folder you can find a portal prefab.  This object can be placed in any scene to create a portal that your player can walk through to return to the new scene.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 ### Scriptable Objects
 

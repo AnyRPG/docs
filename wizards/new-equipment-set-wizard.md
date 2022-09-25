@@ -68,7 +68,7 @@ An equipment set can be found at the _Resources/GameName/EquipmentSet_ folder. I
 
 Equipment can be found in the _Resources/GameName/Item/Equipment/Armor_ folder.  These objects contain all the information for each individual piece of equipment.
 
-![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 #### Vendor Collection
 
