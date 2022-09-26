@@ -39,7 +39,6 @@
   * [Heal Effect](scriptable-objects/ability-effects/heal-effect.md)
   * [Instant Effect](scriptable-objects/ability-effects/instant-effect.md)
   * [Knock Back Effect](scriptable-objects/ability-effects/knock-back-effect.md)
-  * [Length Effect](scriptable-objects/ability-effects/length-effect.md)
   * [Mount Effect](scriptable-objects/ability-effects/mount-effect.md)
   * [Pet Control Effect](scriptable-objects/ability-effects/pet-control-effect.md)
   * [Pet Effect](scriptable-objects/ability-effects/pet-effect.md)

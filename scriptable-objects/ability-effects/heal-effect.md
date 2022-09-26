@@ -8,7 +8,7 @@ description: A heal effect heals a target, restoring one or more power resources
 
 To create a heal effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > HealEffect_.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](../../.gitbook/assets/image.png)
 
 ### Properties
 
