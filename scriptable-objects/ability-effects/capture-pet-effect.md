@@ -10,7 +10,7 @@ description: >-
 
 To create a capture pet effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > CapturePetEffect_.
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 ### Properties
 
