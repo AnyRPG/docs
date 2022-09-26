@@ -10,7 +10,7 @@ description: >-
 
 To create an animated ability, find (or create) the _GameName/Resources/GameName/BaseAbility_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > AnimatedAbility_.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 ## Properties
 
