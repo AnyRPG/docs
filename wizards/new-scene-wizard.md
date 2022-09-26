@@ -47,7 +47,7 @@ In the _Prefab/Portal_ folder you can find a portal prefab.  This object can be 
 
 If audio files were chosen on the New Game Wizard window, then AudioProfile scriptable objects will exist in the _Resources/GameName/AudioProfile_ folder.  These objects contain links to the audio files that were selected.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 #### Scene Node
 
