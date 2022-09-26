@@ -11,7 +11,7 @@ description: >-
 
 To create a dialog, find (or create) the _GameName/Resources/GameName/Dialog_ folder in the project tab and right click.  Choose _Create > AnyRPG > Dialog > Dialog_.
 
-![](<../.gitbook/assets/image (126) (1).png>)
+![](<../.gitbook/assets/image (126).png>)
 
 ## Properties
 

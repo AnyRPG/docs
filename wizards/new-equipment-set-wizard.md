@@ -60,7 +60,7 @@ After choosing the appropriate options for the scene, click Create.
 
 An equipment set can be found at the _Resources/GameName/EquipmentSet_ folder. It defines the equipment that belongs to the set, and any set bonuses.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 ![](<../.gitbook/assets/image (44).png>)
 

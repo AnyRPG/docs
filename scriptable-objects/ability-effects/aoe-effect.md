@@ -1,7 +1,8 @@
 ---
 description: >-
-  An aoe effect is responsible for choosing multiple valid targets and casting
-  any additional ability effects on them.
+  An aoe effect is a type of intermediate effect that is responsible for
+  choosing multiple valid targets and casting any additional ability effects on
+  them.
 ---
 
 # AOE Effect
@@ -10,7 +11,7 @@ description: >-
 
 To create an aoe effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > AOEEffect_.
 
-![](<../../.gitbook/assets/image (126).png>)
+![](../../.gitbook/assets/image.png)
 
 ### Properties
 
