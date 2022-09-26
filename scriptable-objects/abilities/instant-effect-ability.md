@@ -10,7 +10,7 @@ description: >-
 
 To create a direct ability, find (or create) the _GameName/Resources/GameName/BaseAbility_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > DirectAbility_.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (5).png>)
 
 ## Properties
 

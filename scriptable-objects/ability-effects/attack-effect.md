@@ -10,7 +10,7 @@ description: >-
 
 To create an attack effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > AttackEffect_.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (5).png>)
 
 ### Properties
 
