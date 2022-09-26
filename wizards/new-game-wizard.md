@@ -57,7 +57,7 @@ A folder structure similar to what is shown in the picture below will have been 
 
 In the Prefab/GameManager folder you can find 3 prefabs.  The purpose of each is discussed below.
 
-![](<../.gitbook/assets/image (3) (1) (2) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (2).png>)
 
 #### GameManager
 
