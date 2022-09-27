@@ -8,7 +8,7 @@ description: Equipment is any type of item that can be equipped on a character.
 
 To create equipment, find (or create) the _GameName/Resources/GameName/Item/Equipment_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Equipment > Equipment_.
 
-![](<../../.gitbook/assets/image (5) (1) (2).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ## Properties
 

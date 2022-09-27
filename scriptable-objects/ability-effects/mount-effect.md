@@ -8,7 +8,7 @@ description: A mount effect allows a character to summon and ride a mount.
 
 To create a mount effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > MountEffect_.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 ## Properties
 
