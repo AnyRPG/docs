@@ -140,6 +140,9 @@
 ## MONOBEHAVIOURS
 
 * [Monobehaviours Introduction](monobehaviours/monobehaviours-introduction.md)
+* [Channeled Object Script](monobehaviours/channeled-object-script.md)
+* [Channeled Cylinder Script](monobehaviours/channeled-cylinder-script.md)
+* [Cutscene Camera Controller](monobehaviours/cutscene-camera-controller.md)
 
 ## Architecture
 
