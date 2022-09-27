@@ -14,7 +14,7 @@ To create a currency, find (or create) the _GameName/Resources/GameName/Currency
 
 ## Properties
 
-Currency has no additional properties beyond the properties [shared](introduction.md#properties) by all scriptable objects.
+Currency has no additional properties beyond the properties [shared](scriptable-objects-introduction.md#properties) by all scriptable objects.
 
 ## Next Steps
 
