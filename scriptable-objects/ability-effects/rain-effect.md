@@ -10,7 +10,7 @@ description: >-
 
 To create a rain effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > RainEffect_.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (139).png>)
 
 ## Properties
 
