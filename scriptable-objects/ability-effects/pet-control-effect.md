@@ -13,7 +13,7 @@ To create a pet control effect, find (or create) the _GameName/Resources/GameNam
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-### Properties
+## Properties
 
 In addition to all the properties of its parent class, [Status Effect](status-effect.md), pet control effects have the following properties.
 

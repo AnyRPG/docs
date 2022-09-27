@@ -12,7 +12,7 @@ To create a capture pet effect, find (or create) the _GameName/Resources/GameNam
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-### Properties
+## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), capture pet effects have the following properties.
 

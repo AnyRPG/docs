@@ -10,7 +10,7 @@ To create a heal effect, find (or create) the _GameName/Resources/GameName/Abili
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-### Properties
+## Properties
 
 Heal Effects do not have any properties other than the properties of its parent class, [Amount Effect](./#amount-effect-properties).
 

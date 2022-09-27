@@ -13,7 +13,7 @@ To create an aoe effect, find (or create) the _GameName/Resources/GameName/Abili
 
 ![](<../../.gitbook/assets/image (2) (3).png>)
 
-### Properties
+## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), aoe effects have a single property, _AOE Properties_, with the following fields.
 

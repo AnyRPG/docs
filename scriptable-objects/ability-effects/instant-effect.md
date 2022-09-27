@@ -12,7 +12,7 @@ To create an instant effect, find (or create) the _GameName/Resources/GameName/A
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-### Properties
+## Properties
 
 Instant Effects do not have any properties other than the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties).
 

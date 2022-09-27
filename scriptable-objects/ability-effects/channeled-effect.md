@@ -12,7 +12,7 @@ To create a channeled effect, find (or create) the _GameName/Resources/GameName/
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-### Properties
+## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), channeled effects have the following properties.
 

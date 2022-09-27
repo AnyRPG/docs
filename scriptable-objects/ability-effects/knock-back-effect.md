@@ -10,9 +10,9 @@ description: >-
 
 To create a knock back effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > KnockBackEffect_.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
-### Properties
+## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](knock-back-effect.md), knock back effects have the following properties.
 

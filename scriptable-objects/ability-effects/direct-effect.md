@@ -12,7 +12,7 @@ To create a direct effect, find (or create) the _GameName/Resources/GameName/Abi
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-### Properties
+## Properties
 
 Direct Effects do not have any properties other than the properties provided by their parent class, [Fixed Length Effect](./#fixed-length-effect-properties).
 
