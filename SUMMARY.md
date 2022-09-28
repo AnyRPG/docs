@@ -145,7 +145,7 @@
 * [Cutscene Camera Controller](monobehaviours/cutscene-camera-controller.md)
 * [Playable Director Controller](monobehaviours/playable-director-controller.md)
 * [Spawnable](monobehaviours/spawnable.md)
-* [Interactable](monobehaviours/interactable.md)
+* [Interactable](monobehaviours/interactables.md)
 * [Interactable Options](monobehaviours/interactable-options/README.md)
   * [Animated Object](monobehaviours/interactable-options/animated-object.md)
   * [Bank](monobehaviours/interactable-options/bank.md)
@@ -158,6 +158,16 @@
   * [Dialog Interactable](monobehaviours/interactable-options/dialog-interactable.md)
   * [Faction Change Interactable](monobehaviours/interactable-options/faction-change-interactable.md)
   * [Gathering Node](monobehaviours/interactable-options/gathering-node.md)
+  * [Item Pickup](monobehaviours/interactable-options/item-pickup.md)
+  * [Load Scene Interactable](monobehaviours/interactable-options/load-scene-interactable.md)
+  * [Lootable Character](monobehaviours/interactable-options/lootable-character.md)
+  * [Moveable Object](monobehaviours/interactable-options/moveable-object.md)
+  * [Moveable Prefab](monobehaviours/interactable-options/moveable-prefab.md)
+  * [Music Player](monobehaviours/interactable-options/music-player.md)
+  * [Name Change Interactable](monobehaviours/interactable-options/name-change-interactable.md)
+  * [Pressure Switch](monobehaviours/interactable-options/pressure-switch.md)
+  * [Quest Giver](monobehaviours/interactable-options/quest-giver.md)
+  * [Skill Trainer](monobehaviours/interactable-options/skill-trainer.md)
 
 ## Architecture
 

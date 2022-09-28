@@ -8,7 +8,7 @@ description: >-
 
 ## Usage
 
-An Interactable Option provides unique functionality and interaction options to an [Interactable](../interactable.md).  As many interactable options as are desired can be placed on the same Prefab as the Interactable.
+An Interactable Option provides unique functionality and interaction options to an [Interactable](../interactables.md).  As many interactable options as are desired can be placed on the same Prefab as the Interactable.
 
 ## Properties
 
