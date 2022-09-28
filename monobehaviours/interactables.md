@@ -5,7 +5,7 @@ description: >-
   controlled by switches.
 ---
 
-# Interactable
+# Interactables
 
 ## Usage
 

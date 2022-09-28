@@ -168,6 +168,10 @@
   * [Pressure Switch](monobehaviours/interactable-options/pressure-switch.md)
   * [Quest Giver](monobehaviours/interactable-options/quest-giver.md)
   * [Skill Trainer](monobehaviours/interactable-options/skill-trainer.md)
+  * [Specialization Change Interactable](monobehaviours/interactable-options/specialization-change-interactable.md)
+  * [Teleport Interactable](monobehaviours/interactable-options/teleport-interactable.md)
+  * [Unit Spawn Controller Interactable](monobehaviours/interactable-options/unit-spawn-controller-interactable.md)
+  * [Vendor](monobehaviours/interactable-options/vendor.md)
 
 ## Architecture
 
