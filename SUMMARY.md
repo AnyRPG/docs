@@ -145,7 +145,19 @@
 * [Cutscene Camera Controller](monobehaviours/cutscene-camera-controller.md)
 * [Playable Director Controller](monobehaviours/playable-director-controller.md)
 * [Spawnable](monobehaviours/spawnable.md)
-* [Interactables](monobehaviours/interactables.md)
+* [Interactable](monobehaviours/interactable.md)
+* [Interactable Options](monobehaviours/interactable-options/README.md)
+  * [Animated Object](monobehaviours/interactable-options/animated-object.md)
+  * [Bank](monobehaviours/interactable-options/bank.md)
+  * [Behavior Interactable](monobehaviours/interactable-options/behavior-interactable.md)
+  * [Character Creator Interactable](monobehaviours/interactable-options/character-creator-interactable.md)
+  * [Class Change Interactable](monobehaviours/interactable-options/class-change-interactable.md)
+  * [Click Switch](monobehaviours/interactable-options/click-switch.md)
+  * [Crafting Node](monobehaviours/interactable-options/crafting-node.md)
+  * [Cut Scene Interactable](monobehaviours/interactable-options/cut-scene-interactable.md)
+  * [Dialog Interactable](monobehaviours/interactable-options/dialog-interactable.md)
+  * [Faction Change Interactable](monobehaviours/interactable-options/faction-change-interactable.md)
+  * [Gathering Node](monobehaviours/interactable-options/gathering-node.md)
 
 ## Architecture
 
