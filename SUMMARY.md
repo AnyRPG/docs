@@ -143,6 +143,9 @@
 * [Channeled Object Script](monobehaviours/channeled-object-script.md)
 * [Channeled Cylinder Script](monobehaviours/channeled-cylinder-script.md)
 * [Cutscene Camera Controller](monobehaviours/cutscene-camera-controller.md)
+* [Playable Director Controller](monobehaviours/playable-director-controller.md)
+* [Spawnable](monobehaviours/spawnable.md)
+* [Interactables](monobehaviours/interactables.md)
 
 ## Architecture
 
