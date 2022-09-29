@@ -6,7 +6,7 @@ All configuration options that apply to the entire game are set through the Syst
 
 After using the New Game Wizard to create your game, you can find the System Configuration Manager in the Game Manager prefab at the following directory path : _Games/YourGameName/Prefab/GameManager._
 
-__![](<../.gitbook/assets/image (1).png>)__
+__![](../.gitbook/assets/image.png)__
 
 ## Settings
 
@@ -116,6 +116,108 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Currency Group Name     | A [Currency Group](../scriptable-objects/currency-group.md) that will be shown by default in tooltips and the Vendor UI window.                                                                                                  |
 | Vendor Price Multiplier | When selling an [Item](../scriptable-objects/items/) to a [Vendor](../scriptable-objects/interactable-option-configurations/vendor-config.md), the offered amount will be the regular purchase amount multiplied by this number. |
+
+### Currency Scaling
+
+| Name                            | Description                                                                                                                                                                                                                                                |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kill Currency Name              | If _Automatic Currency_ is enabled for a [Lootable Character](../scriptable-objects/interactable-option-configurations/lootable-character-config.md), this [Currency](../scriptable-objects/currency.md) will be dropped.                                  |
+| Kill Currency Amount Per Level  | If _Automatic Currency_ is enabled for a [Lootable Character](../scriptable-objects/interactable-option-configurations/lootable-character-config.md), this [Currency](../scriptable-objects/currency.md) amount will be multiplied by the character level. |
+| Quest Currency Name             | If _Automatic Currency_ is enabled for a [Quest](../scriptable-objects/quest.md), this [Currency](../scriptable-objects/currency.md) will be rewarded.                                                                                                     |
+| Quest Currency Amount Per Level | If _Automatic Currency_ is enabled for a [Quest](../scriptable-objects/quest.md), this [Currency](../scriptable-objects/currency.md) amount will be multiplied by the [Quest](../scriptable-objects/quest.md) level.                                       |
+
+### Quest Experience Scaling
+
+| Name                                      | Description                                                                                                               |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Base Quest XP                             | A flat experience amount to add to all quests that does not scale with level.                                             |
+| Quest XP Per Level                        | A flat experience amount to add to all quests that does scale with level.                                                 |
+| Use Quest XP Level Multiplier Denominator | If true, the experience per level will be multiplied by `(1 / level)`.                                                    |
+| Quest XP Multiplier Level Cap             | If the above option is true, and this value is more than 0, the experience per level will be multiplied by `(1 / level)`. |
+
+### Kill Experience Scaling
+
+| Name                                     | Description                                                                                                               |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Base Kill XP                             | A flat experience amount to add to all kills that does not scale with level.                                              |
+| Kill XP Per Level                        | A flat experience amount to add to all kills that does scale with level.                                                  |
+| Use Kill XP Level Multiplier Denominator | If true, the experience per level will be multiplied by `(1 / level)`.                                                    |
+| Kill XP Multiplier Level Cap             | If the above option is true, and this value is more than 0, the experience per level will be multiplied by `(1 / level)`. |
+
+### DPS Scaling
+
+| Name                        | Description                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Weapon DPS Budget Per Level | [Weapons](../scriptable-objects/items/weapon.md) with _Dynamic Level_ set to true will get this amount of DPS per level. |
+
+### Primary Stats and Scaling
+
+| Name                  | Description                                                                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stat Budget Per Level | A Per level stat budget that will be applied to all [Character Stats](../scriptable-objects/character-stat.md), in addition to their individual budgets. |
+
+### Power Resource and Capabilities
+
+| Name            | Description                                                                                         |
+| --------------- | --------------------------------------------------------------------------------------------------- |
+| Power Resources | A list of [Power Resources](../scriptable-objects/power-resource.md) that all characters will have. |
+| Capabilities    | A list of [Capabilities](../shared-properties/capabilities.md) that all characters will have.       |
+
+### Layer
+
+| Name                         | Description                                                                                                                              |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Default Character Unit Layer | Character units will automatically be set to this layer so they can respond to AOE / looting and other things that filter by this layer. |
+| Default Player Unit Layer    | Player units will automatically be set to this layer.                                                                                    |
+
+### System Abilities
+
+| Name                     | Description                                                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Level Up Effect Name     | The [Ability Effect](../scriptable-objects/ability-effects/) to cast on a player when they level up.                          |
+| Death Effect Name        | The [Ability Effect](../scriptable-objects/ability-effects/) to cast on a player when they die.                               |
+| Loot Sparkle Effect Name | The [Ability Effect](../scriptable-objects/ability-effects/) to cast on any character when it has loot that can be collected. |
+
+### System Audio
+
+| Name                      | Description                                                                                                                                                                                                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vendor Audio Clip         | This audio clip will play whenever buying from or selling to a [Vendor](../scriptable-objects/interactable-option-configurations/vendor-config.md).                                                                                                                            |
+| Vendor Audio Profile Name | This [Audio Profile](../scriptable-objects/audio-profile.md) will play whenever buying from or selling to a [Vendor](../scriptable-objects/interactable-option-configurations/vendor-config.md). If this value is set, it will override the _Vendor Audio Clip_ setting above. |
+| Max Chat Text Distance    | The maximum distance at which chat in dialogs above characters will also appear in the player chat log. Prevents distant conversations from spamming logs.                                                                                                                     |
+
+### Mini Map
+
+| Name                          | Description                                                                                                                                                                                                    |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auto Pixels Per Meter         | When a minimap texture for a scene cannot be found, how many pixels per meter should be used when taking an automatic snapshot. A higher number results in better image quality, but also higher memory usage. |
+| Player Mini Map Icon          | The icon to show on the mini map to represent the player.                                                                                                                                                      |
+| Player Mini Map Icon Rotation | If the icon does not face up on the screen, enter the number of clockwise degrees the image is naturally rotated. This will be subtracted from the player angle at run-time.                                   |
+
+### Unit Frames
+
+| Name                        | Description                                       |
+| --------------------------- | ------------------------------------------------- |
+| Real Time Unit Frame Camera | Using a real time camera will reduce performance. |
+
+### UI
+
+| Name                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Default Cast Target Circle | The material that will be used to display the cast target on the ground when casting ground targeted spells.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Highlight Circle Color Map | <p>A map of <a href="../scriptable-objects/faction.md">Faction</a> relationship colors to materials to use when displaying a highlight circle when a target character is selected.<br><strong>Source Color</strong><br>The <a href="../scriptable-objects/faction.md">Faction</a> relationship color.<br><strong>Projector Material</strong><br>The material to use for the highlight circle when the character relationship has the Source Color.<br><strong>Tint Material</strong><br>If true, the <em>Projector Material</em> will be tinted with the source color.</p> |
+| Default UI Color           | Default UI color for static elements that have no additional transparency applied to them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Default UI Fill Color      | Default UI color for background of UI sliders.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Highlight Outline Color    | Default UI color for outline image, when the mouse is hovering over an image.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Highlight Image Color      | Default UI color for background highlight image, when a UI element has been clicked on and is the active image from a group of images.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Highlight Button Color     | Default UI color for the button image on highlight buttons.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Button Normal Color        | The normal color for button UI elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Button Highlighted Color   | The highlight color for button UI elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Button Pressed Color       | The pressed color for button UI elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Button Selected Color      | The selected color for button UI elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Button Disabled Color      | The disabled color for button UI elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Default UI Panel Frame     | The image to use for the frame of UI panel elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Default Faction Icon       | The faction icon to show on the load game screen when the player has no faction.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ### TemplateStart
 
