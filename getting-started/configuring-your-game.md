@@ -135,7 +135,7 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 | Use Quest XP Level Multiplier Denominator | If true, the experience per level will be multiplied by `(1 / level)`.                                                    |
 | Quest XP Multiplier Level Cap             | If the above option is true, and this value is more than 0, the experience per level will be multiplied by `(1 / level)`. |
 
-### Kill Experience Scaling
+### Kills
 
 | Name                                     | Description                                                                                                               |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -143,6 +143,7 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 | Kill XP Per Level                        | A flat experience amount to add to all kills that does scale with level.                                                  |
 | Use Kill XP Level Multiplier Denominator | If true, the experience per level will be multiplied by `(1 / level)`.                                                    |
 | Kill XP Multiplier Level Cap             | If the above option is true, and this value is more than 0, the experience per level will be multiplied by `(1 / level)`. |
+| Default Despawn Timer                    | The default amount of time before a unit despawns after killed and looted.                                                |
 
 ### DPS Scaling
 
@@ -219,12 +220,59 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 | Default UI Panel Frame     | The image to use for the frame of UI panel elements.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Default Faction Icon       | The faction icon to show on the load game screen when the player has no faction.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-### TemplateStart
+### System Bar
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
-|      |             |
-|      |             |
+| Name                    | Description                                         |
+| ----------------------- | --------------------------------------------------- |
+| System Bar Main Menu    | The main menu icon to show on the UI system bar.    |
+| System Bar Ability Book | The ability book icon to show on the UI system bar. |
+| System Bar Character    | The character icon to show on the UI system bar.    |
+| System Bar Quest Log    | The quest log icon to show on the UI system bar.    |
+| System Bar Map          | The map icon to show on the UI system bar.          |
+| System Bar Skills       | The skills icon to show on the UI system bar.       |
+| System Bar Reputations  | The reputations icon to show on the UI system bar.  |
+| System Bar Currencies   | The currencies icon to show on the UI system bar.   |
+| System Bar Achievements | The achievements icon to show on the UI system bar. |
+| System Bar Inventory    | The inventory icon to show on the UI system bar.    |
 
-### TemplateEnd
+### Interactable Configuration
+
+| Name                                          | Description                                                                                                  |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Temporary Material                            | The material to use when causing an [Interactable](../monobehaviours/interactables.md) to glow on mouseover. |
+| Multiple Interaction Name Plate Image         | An image to use on a nameplate if there is more than 1 valid interactable option.                            |
+| Multiple Craft Name Plate Image               | An image to use on a nameplate if only crafting is available, but more than 1 craft skill can be shown.      |
+| Bank  Interaction Panel Image                 | An image to use beside a bank option in the interaction UI window.                                           |
+| Bank Name Plate Image                         | An image to for a bank option on a nameplate.                                                                |
+| Quest Giver Interaction Panel Image           | An image to use beside a quest giver option in the interaction UI window.                                    |
+| Quest Giver Name Plate Image                  | An image to for a quest giver option on a nameplate.                                                         |
+| Dialog Interaction Panel Image                | An image to use beside a dialog option in the interaction UI window.                                         |
+| Dialog Name Plate Image                       | An image to for a dialog option on a nameplate.                                                              |
+| Name Change Interaction Panel Image           | An image to use beside a name change option in the interaction UI window.                                    |
+| Name Change Name Plate Image                  | An image to for a name change option on a nameplate.                                                         |
+| Cut Scene Interaction Panel Image             | An image to use beside a cutscene option in the interaction UI window.                                       |
+| Cut Scene Name Plate Image                    | An image to for a cutscene option on a nameplate.                                                            |
+| Lootable Character Interaction Panel Image    | An image to use beside a lootable character option in the interaction UI window.                             |
+| Lootable Character Name Plate Image           | An image to for a lootable character option on a nameplate.                                                  |
+| Character Creator Interaction Panel Image     | An image to use beside a character creator option in the interaction UI window.                              |
+| Character Creator Name Plate Image            | An image to for a character creator option on a nameplate.                                                   |
+| Unit Spawn Controller Interaction Panel Image | An image to use beside a unit spawn controller option in the interaction UI window.                          |
+| Unit Spawn Controller Name Plate Image        | An image to for a unit spawn controller option on a nameplate.                                               |
+| Faction Change Interaction Panel Image        | An image to use beside a faction change option in the interaction UI window.                                 |
+| Faction Change Name Plate Image               | An image to for a faction change option on a nameplate.                                                      |
+| Class Change Interaction Panel Image          | An image to use beside a class change option in the interaction UI window.                                   |
+| Class Change Name Plate Image                 | An image to for a class change option on a nameplate.                                                        |
+| Vendor Interaction Panel Image                | An image to use beside a vendor option in the interaction UI window.                                         |
+| Vendor Name Plate Image                       | An image to for a vendor option on a nameplate.                                                              |
+| Portal Interaction Panel Image                | An image to use beside a portal option in the interaction UI window.                                         |
+| Portal Name Plate Image                       | An image to for a portal option on a nameplate.                                                              |
+| Skill Trainer Interaction Panel Image         | An image to use beside a skill trainer option in the interaction UI window.                                  |
+| Skill Trainer Name Plate Image                | An image to for a skill trainer option on a nameplate.                                                       |
+| Music Player Interaction Panel Image          | An image to use beside a music player option in the interaction UI window.                                   |
+| Music Player Name Plate Image                 | An image to for a music player option on a nameplate.                                                        |
+
+### Quest Configuration
+
+| Name           | Description                                    |
+| -------------- | ---------------------------------------------- |
+| Quest Log Size | The maximum number of quests in the quest log. |
