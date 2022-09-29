@@ -174,6 +174,8 @@
   * [Vendor](monobehaviours/interactable-options/vendor.md)
 * [Environmental Effect Area](monobehaviours/environmental-effect-area.md)
 * [Movement Sound Area](monobehaviours/movement-sound-area.md)
+* [Persistent Object](monobehaviours/persistent-object.md)
+* [Respawn Area](monobehaviours/respawn-area.md)
 
 ## Architecture
 
