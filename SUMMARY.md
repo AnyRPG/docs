@@ -142,6 +142,7 @@
 * [Monobehaviours Introduction](monobehaviours/monobehaviours-introduction.md)
 * [Channeled Object Script](monobehaviours/channeled-object-script.md)
 * [Channeled Cylinder Script](monobehaviours/channeled-cylinder-script.md)
+* [Edible Object](monobehaviours/edible-object.md)
 * [Projectile Script](monobehaviours/projectile-script.md)
 * [Cutscene Camera Controller](monobehaviours/cutscene-camera-controller.md)
 * [Playable Director Controller](monobehaviours/playable-director-controller.md)
