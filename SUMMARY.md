@@ -140,6 +140,7 @@
 ## MONOBEHAVIOURS
 
 * [Monobehaviours Introduction](monobehaviours/monobehaviours-introduction.md)
+* [Scene Config](monobehaviours/scene-config.md)
 * [Channeled Object Script](monobehaviours/channeled-object-script.md)
 * [Channeled Cylinder Script](monobehaviours/channeled-cylinder-script.md)
 * [Edible Object](monobehaviours/edible-object.md)
