@@ -173,6 +173,7 @@
   * [Unit Spawn Controller Interactable](monobehaviours/interactable-options/unit-spawn-controller-interactable.md)
   * [Vendor](monobehaviours/interactable-options/vendor.md)
 * [Environmental Effect Area](monobehaviours/environmental-effect-area.md)
+* [Movement Sound Area](monobehaviours/movement-sound-area.md)
 
 ## Architecture
 
