@@ -177,6 +177,7 @@
 * [Persistent Object](monobehaviours/persistent-object.md)
 * [Respawn Area](monobehaviours/respawn-area.md)
 * [Unit Spawn Node](monobehaviours/unit-spawn-node.md)
+* [Water Body](monobehaviours/water-body.md)
 
 ## Architecture
 
