@@ -176,6 +176,7 @@
 * [Movement Sound Area](monobehaviours/movement-sound-area.md)
 * [Persistent Object](monobehaviours/persistent-object.md)
 * [Respawn Area](monobehaviours/respawn-area.md)
+* [Unit Spawn Node](monobehaviours/unit-spawn-node.md)
 
 ## Architecture
 
