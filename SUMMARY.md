@@ -172,6 +172,7 @@
   * [Teleport Interactable](monobehaviours/interactable-options/teleport-interactable.md)
   * [Unit Spawn Controller Interactable](monobehaviours/interactable-options/unit-spawn-controller-interactable.md)
   * [Vendor](monobehaviours/interactable-options/vendor.md)
+* [Environmental Effect Area](monobehaviours/environmental-effect-area.md)
 
 ## Architecture
 
