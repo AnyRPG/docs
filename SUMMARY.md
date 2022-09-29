@@ -9,6 +9,7 @@
 * [Included sample games](getting-started/included-sample-games.md)
 * [Creating your first game](getting-started/creating-your-first-game.md)
 * [Configuring your game](getting-started/configuring-your-game.md)
+* [Adding Content To Your Game](getting-started/adding-content-to-your-game.md)
 
 ## Wizards
 

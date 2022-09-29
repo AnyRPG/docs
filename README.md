@@ -17,3 +17,11 @@ Follow our handy guides to get started on the basics as quickly as possible:
 {% content-ref url="getting-started/creating-your-first-game.md" %}
 [creating-your-first-game.md](getting-started/creating-your-first-game.md)
 {% endcontent-ref %}
+
+{% content-ref url="getting-started/configuring-your-game.md" %}
+[configuring-your-game.md](getting-started/configuring-your-game.md)
+{% endcontent-ref %}
+
+{% content-ref url="getting-started/adding-content-to-your-game.md" %}
+[adding-content-to-your-game.md](getting-started/adding-content-to-your-game.md)
+{% endcontent-ref %}
