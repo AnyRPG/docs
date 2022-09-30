@@ -77,14 +77,14 @@ The UMA Global Library is required for the Unity Multipurpose Avatar system to f
 
 In the Prefab/Portal folder you can find a portal prefab.  This object can be placed in any scene to create a portal that your player can walk through to return to the first scene.
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27) (1).png>)
 
 ### Scriptable Objects
 
 #### Audio Profiles
 
 If audio files were chosen on the New Game Wizard window, then AudioProfile scriptable objects will exist in the Resources/GameName/AudioProfile folder.  These objects contain links to the audio files that were selected.\
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 #### Scene Nodes
 
@@ -127,7 +127,7 @@ By default, both the loading scene and the first scene will have been added to t
 
 ![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 ## Playing the Game
 

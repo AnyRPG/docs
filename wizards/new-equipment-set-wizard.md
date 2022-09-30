@@ -16,7 +16,7 @@ The New Scene Wizard can be opened by clicking _Tools_ in the menu bar, and sele
 
 ![](<../.gitbook/assets/image (74).png>)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ## Options
 
@@ -80,7 +80,7 @@ If selected, a vendor collection can be found in the _Resources/GameName/VendorC
 
 If selected, a loot table can be found in the _Resources/GameName/LootTable_ folder.  This can be added to a LootableCharacter interactable option on any character to allow the equipment to be looted when the character is defeated in combat.
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 ## Next Steps
 

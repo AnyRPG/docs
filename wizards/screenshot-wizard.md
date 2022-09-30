@@ -20,7 +20,7 @@ The Screenshot Wizard can be opened by clicking _Tools_ in the menu bar, and sel
 
 By default, the screenshot wizard will show a white indicator square in the scene view window.  This square represents the size and contents of the image that will be saved to disk.
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 You can adjust the background of the image, and the lighting that will be used when the screenshot is taken, but those settings will not show in the scene view.  You may have to take a few screenshots to get the settings just right.  A full list of the settings can be found below.
 

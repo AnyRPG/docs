@@ -16,7 +16,7 @@ The New Scene Wizard can be opened by clicking _Tools_ in the menu bar, and sele
 
 ![](<../.gitbook/assets/image (65).png>)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 ## Options
 
@@ -47,7 +47,7 @@ In the _Prefab/Portal_ folder you can find a portal prefab.  This object can be 
 
 If audio files were chosen on the New Game Wizard window, then AudioProfile scriptable objects will exist in the _Resources/GameName/AudioProfile_ folder.  These objects contain links to the audio files that were selected.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 #### Scene Node
 
@@ -59,7 +59,7 @@ Scene Node for the new scene can be found in the _Resources/GameName/SceneNode_ 
 
 The new scene can be found in the GameName/Scenes/SceneName folder. It will contain the _SceneConfig_ object, which is a special object that allows you to press play from that scene, and have the system automatically load the loading scene to perform game initialization.  The contents of the scene will either be a blank template level with a plane your character can stand on, or the contents of whatever scene you chose to copy when configuring the New Scene Wizard.
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 ### Build Settings
 
@@ -67,7 +67,7 @@ By default, the new scene will have been added to the build settings, which can 
 
 ![](<../.gitbook/assets/image (30).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 ## Next Steps
 

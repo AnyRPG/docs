@@ -10,5 +10,5 @@ description: >-
 
 All Wizards can be found under the _Tools_ > _AnyRPG_ > _Wizard_ menu.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (4).png>)
 

@@ -61,4 +61,4 @@ In the screenshot below you can see how you would add vendor collections to a ve
 
 ![](<../.gitbook/assets/image (93).png>)
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
