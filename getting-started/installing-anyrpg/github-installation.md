@@ -1,3 +1,9 @@
+---
+description: >-
+  The AnyRPG Core package is available via github and the Unity Asset Store.
+  This page describes how to install it from github.
+---
+
 # Github Installation
 
 ## Install the Correct Unity Version
@@ -20,7 +26,7 @@ For example, you can clone the project into a directory on your computer if you 
 
 Open Unity Hub and select the _Projects_ tab.  Click _Open > Add Project From Disk._
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 Find the project folder and choose _Add Project_.
 
@@ -30,7 +36,7 @@ Find the project folder and choose _Add Project_.
 
 The project should now be visible in Unity Hub.  Click on it to open it.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 When presented with the option, choose Ignore.  This is necessary because AnyRPG relies on UMA and it's not included in the github project.
 
@@ -38,7 +44,7 @@ When presented with the option, choose Ignore.  This is necessary because AnyRPG
 
 Once the project opens, you will see errors in the console.  These will be fixed in the next step by installing UMA.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (22) (2).png>)
 
 ## Install UMA 2
 
@@ -54,7 +60,7 @@ Click _Open in Unity_.
 
 The Unity Package Manager should open in Unity.  If you have not downloaded the package yet, click _Download_.  Then Click _Import_.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 When presented with the option, accept the defaults and click Import.
 
@@ -73,7 +79,7 @@ You should no longer see any errors.
 
 Finally, rebuild the UMA Global Library.  Choose from the main menu bar _UMA > Global Library_.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (99).png>)
 
 In the Global Library window, choose _File > Rebuild From Project_.
 
@@ -83,7 +89,7 @@ In the Global Library window, choose _File > Rebuild From Project_.
 
 Open the Window menu in Unity and choose _TextMeshPro > Import TMP Essential Resources_.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 {% hint style="warning" %}
 AnyRPG Includes a modified version of the Liberation Sans SDF Asset so be sure to **uncheck** the box beside AnyRPG before clicking _Import_.

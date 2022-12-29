@@ -1,3 +1,10 @@
+---
+description: >-
+  The full AnyRPG Engine Unity package is a free download that contains extra
+  assets and a more complex sample game than the one included in AnyRPG Core
+  (available on github and the Unity Asset Store).
+---
+
 # Unity Package Installation
 
 ## Download AnyRPG

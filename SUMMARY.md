@@ -6,6 +6,7 @@
 
 * [Installing AnyRPG](getting-started/installing-anyrpg/README.md)
   * [Unity Package Installation](getting-started/installing-anyrpg/unity-package-installation.md)
+  * [Unity Asset Store Installation](getting-started/installing-anyrpg/unity-asset-store-installation.md)
   * [Github Installation](getting-started/installing-anyrpg/github-installation.md)
 * [Included sample games](getting-started/included-sample-games.md)
 * [Creating your first game](getting-started/creating-your-first-game.md)
