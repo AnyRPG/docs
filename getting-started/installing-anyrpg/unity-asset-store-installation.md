@@ -6,6 +6,8 @@ description: >-
 
 # Unity Asset Store Installation
 
+{% embed url="https://youtu.be/syI3ohFWVck" %}
+
 ## Find AnyRPG Core on the Unity Asset Store
 
 AnyRPG Core can be found on the Unity Asset Store at [https://assetstore.unity.com/packages/slug/234361](https://assetstore.unity.com/packages/slug/234361)
