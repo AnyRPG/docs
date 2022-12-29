@@ -14,9 +14,9 @@ The minimap wizard requires that the game scene you want to make the map for is 
 
 The Minimap Wizard can be opened by clicking _Tools_ in the menu bar, and selecting _AnyRPG > Wizard > Minimap Wizard_.
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 ## Settings
 

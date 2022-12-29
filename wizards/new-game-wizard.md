@@ -51,7 +51,7 @@ After choosing the appropriate options for your game, click Create.
 
 A folder structure similar to what is shown in the picture below will have been created.
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ### Game Manager Prefabs
 
@@ -77,7 +77,7 @@ The UMA Global Library is required for the Unity Multipurpose Avatar system to f
 
 In the Prefab/Portal folder you can find a portal prefab.  This object can be placed in any scene to create a portal that your player can walk through to return to the first scene.
 
-![](<../.gitbook/assets/image (27) (1).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 ### Scriptable Objects
 

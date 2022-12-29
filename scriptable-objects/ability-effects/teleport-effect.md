@@ -8,7 +8,7 @@ description: A teleport effect teleports the caster to another scene.
 
 To create a teleport effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > TeleportEffect_.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 ## Properties
 

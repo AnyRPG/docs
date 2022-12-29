@@ -8,9 +8,9 @@ description: AnyRPG includes several sample games.  Read on to find out how to p
 
 You can find links to the included sample games in the welcome window.  The window will pop up automatically when you open the Unity project, but if you have just installed the package and not closed the Unity editor yet, you can still open it manually by clicking on the _Tools_ menu in the menu bar and choosing _AnyRPG > Welcome Window_.
 
-![](<../.gitbook/assets/image (28) (1).png>)
+![](<../.gitbook/assets/image (28).png>)
 
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 ## Loading the Games
 

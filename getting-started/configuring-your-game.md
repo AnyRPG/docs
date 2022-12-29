@@ -6,7 +6,7 @@ All configuration options that apply to the entire game are set through the Syst
 
 After using the New Game Wizard to create your game, you can find the System Configuration Manager in the Game Manager prefab at the following directory path : _Games/YourGameName/Prefab/GameManager._
 
-__![](<../.gitbook/assets/image (5).png>)__
+__![](<../.gitbook/assets/image (6).png>)__
 
 ## Settings
 

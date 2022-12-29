@@ -10,7 +10,7 @@ description: >-
 
 To create a taunt effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > TauntEffect_.
 
-![](<../../.gitbook/assets/image (4) (6).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 ## Properties
 

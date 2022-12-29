@@ -70,6 +70,7 @@
   * [Gain Experience Command](scriptable-objects/chat-commands/gain-experience-command.md)
   * [Gain Item Command](scriptable-objects/chat-commands/gain-item-command.md)
   * [Learn Ability Command](scriptable-objects/chat-commands/learn-ability-command.md)
+  * [Load Scene Command](scriptable-objects/chat-commands/load-scene-command.md)
   * [Set Level Command](scriptable-objects/chat-commands/set-level-command.md)
 * [Class Specialization](scriptable-objects/class-specialization.md)
 * [Combat Strategy](scriptable-objects/combat-strategy.md)

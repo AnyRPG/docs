@@ -16,7 +16,7 @@ The Template Content Wizard can be opened by clicking _Tools_ in the menu bar, a
 
 ![](<../.gitbook/assets/image (62).png>)
 
-![](<../.gitbook/assets/image (25) (1).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 ## Settings
 
@@ -76,7 +76,7 @@ Once everything looks properly aligned, you can disable the weapon previews and 
 
 If the character is an NPC, find the Unit Spawn Node under the GameName/Prefab/UnitSpawnNode/Character folder in your project and drag it into the location in the scene you want to spawn in.  When you start playing your game, the character will appear at that location.
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23).png>)
 
 ## Player Characters
 

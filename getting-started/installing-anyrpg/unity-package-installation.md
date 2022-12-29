@@ -28,7 +28,7 @@ When project loads, find the AnyRPG Unity package on your hard drive, and drag i
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click _Import_.
 
-![](<../../.gitbook/assets/image (24) (1).png>)
+![](<../../.gitbook/assets/image (24).png>)
 
 When the Import Unity Package window appears, click _Import_.
 
