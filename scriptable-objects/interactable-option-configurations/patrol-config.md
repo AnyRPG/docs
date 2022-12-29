@@ -10,7 +10,7 @@ description: >-
 
 To create a patrol config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > PatrolConfig_.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (2).png>)
 
 ## Properties
 

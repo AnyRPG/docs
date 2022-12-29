@@ -76,7 +76,7 @@ Once everything looks properly aligned, you can disable the weapon previews and 
 
 If the character is an NPC, find the Unit Spawn Node under the GameName/Prefab/UnitSpawnNode/Character folder in your project and drag it into the location in the scene you want to spawn in.  When you start playing your game, the character will appear at that location.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 ## Player Characters
 

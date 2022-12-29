@@ -10,7 +10,7 @@ description: Load scene commands immediately load a scene.
 
 To create a load scene command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click. Choose _Create > AnyRPG > Chat Commands > Load Scene Command_.​​​
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 ## Properties
 

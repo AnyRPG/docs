@@ -139,6 +139,7 @@
 * [Unit Toughness](scriptable-objects/unit-toughness.md)
 * [Unit Type](scriptable-objects/unit-type.md)
 * [Vendor Collection](scriptable-objects/vendor-collection.md)
+* [Voice Profile](scriptable-objects/voice-profile.md)
 * [Weapon Skill](scriptable-objects/weapon-skill.md)
 
 ## MONOBEHAVIOURS
