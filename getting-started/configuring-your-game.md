@@ -183,6 +183,7 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 
 | Name                      | Description                                                                                                                                                                                                                                                                    |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Weapon Miss Audio Clip    | The audio clip to play whenever a weapon (or unarmed) attack misses.                                                                                                                                                                                                           |
 | Vendor Audio Clip         | This audio clip will play whenever buying from or selling to a [Vendor](../scriptable-objects/interactable-option-configurations/vendor-config.md).                                                                                                                            |
 | Vendor Audio Profile Name | This [Audio Profile](../scriptable-objects/audio-profile.md) will play whenever buying from or selling to a [Vendor](../scriptable-objects/interactable-option-configurations/vendor-config.md). If this value is set, it will override the _Vendor Audio Clip_ setting above. |
 | Max Chat Text Distance    | The maximum distance at which chat in dialogs above characters will also appear in the player chat log. Prevents distant conversations from spamming logs.                                                                                                                     |
@@ -276,3 +277,11 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 | Name           | Description                                    |
 | -------------- | ---------------------------------------------- |
 | Quest Log Size | The maximum number of quests in the quest log. |
+
+### Time Of Day
+
+| Name                 | Description                                                                                                                                                                                                               |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Time Of Day Speed    | This value is a multiplier. For every 1 second of real-world time that passes, x seconds of in-game time will pass.                                                                                                       |
+| Default Sun Angle    | The number of degrees around the X axis that the sun will be rotated compared to world space. 0 is pointing directly North, 90 is pointing straight down (directly over the player head), 180 is pointing directly South. |
+| Default Sun Gradient | A color gradient to use for the sun color. The ends represent midnight, and the center is noon. The alpha value controls sun light intensity and skybox blending.                                                         |

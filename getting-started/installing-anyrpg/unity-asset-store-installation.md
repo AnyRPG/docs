@@ -19,7 +19,7 @@ The AnyRPG Unity package is exported as a complete project because it requires s
 You can find the correct Unity version right on the asset store page.\
 
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ## Create a New Unity 3D Project
 
@@ -55,7 +55,7 @@ A warning window will pop up letting you know this package will overwrite all pr
 
 A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 When the Import Unity Package window appears, click **Import**.
 

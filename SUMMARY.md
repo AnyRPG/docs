@@ -141,6 +141,7 @@
 * [Unit Type](scriptable-objects/unit-type.md)
 * [Vendor Collection](scriptable-objects/vendor-collection.md)
 * [Voice Profile](scriptable-objects/voice-profile.md)
+* [Weather Profile](scriptable-objects/weather-profile.md)
 * [Weapon Skill](scriptable-objects/weapon-skill.md)
 
 ## MONOBEHAVIOURS
