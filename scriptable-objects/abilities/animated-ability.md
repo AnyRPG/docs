@@ -14,12 +14,14 @@ To create an animated ability, find (or create) the _GameName/Resources/GameName
 
 ## Properties
 
-| Name                       | Description                                                                                                                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Is Auto Attack             | If true, this ability will be used as an auto-attack, and automatically cast on an enemy target when in combat and in range.                                                                |
-| Use Unit Attack Animations | If true, the _Attack Clips_ will be used from the currently active [Animations](../animation-profile.md) for the character, instead of any animation clips defined directly in the ability. |
-| Use Auto Attack Animations | This option is only valid if this is not an auto-attack ability.  If true, it will use the current auto-attack animations so it looks good with any weapon.                                 |
-| Use Weapon Hit Sound       | If true, the current Weapon default hit sound will be played when the attack hits an enemy.                                                                                                 |
+| Name                                  | Description                                                                                                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Is Auto Attack                        | If true, this ability will be used as an auto-attack, and automatically cast on an enemy target when in combat and in range.                                                                |
+| Use Unit Attack Animations            | If true, the _Attack Clips_ will be used from the currently active [Animations](../animation-profile.md) for the character, instead of any animation clips defined directly in the ability. |
+| Use Auto Attack Animations            | This option is only valid if this is not an auto-attack ability.  If true, it will use the current auto-attack animations so it looks good with any weapon.                                 |
+| Use Weapon Hit Sound                  | If true, the current Weapon default hit sound will be played when the attack hits an enemy.                                                                                                 |
+| Use Weapon Skill Attack Voice Setting | If true, the choice of whether or not to play the attack voice is controlled by the weapon skill.                                                                                           |
+| Play Attack Voice                     | If true, the character will play their attack voice clip when this ability is used.                                                                                                         |
 
 ## Next steps
 
