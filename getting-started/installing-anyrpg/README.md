@@ -8,6 +8,10 @@ AnyRPG is available as a standalone Unity package, or via Github as a complete U
 [unity-package-installation.md](unity-package-installation.md)
 {% endcontent-ref %}
 
+{% content-ref url="unity-asset-store-installation.md" %}
+[unity-asset-store-installation.md](unity-asset-store-installation.md)
+{% endcontent-ref %}
+
 {% content-ref url="github-installation.md" %}
 [github-installation.md](github-installation.md)
 {% endcontent-ref %}
