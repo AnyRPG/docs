@@ -6,6 +6,8 @@ description: >-
 
 # Quest
 
+{% embed url="https://youtu.be/-CWLO4OE1_Q" %}
+
 ## Creation
 
 To create a quest, find (or create) the _GameName/Resources/GameName/Quest_ folder in the project tab and right click.  Choose _Create > AnyRPG > Quests > Quest_.

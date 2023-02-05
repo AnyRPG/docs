@@ -4,6 +4,8 @@ description: A quest start item is an item that can start a quest when used.
 
 # Quest Start Item
 
+{% embed url="https://youtu.be/-CWLO4OE1_Q" %}
+
 ## Creation
 
 To create a quest start item, find (or create) the _GameName/Resources/GameName/Item_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > QuestStartItem_.
