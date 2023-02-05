@@ -6,6 +6,8 @@ description: >-
 
 # Voice Profile
 
+{% embed url="https://youtu.be/UJ15wMxo390" %}
+
 ## Creation
 
 To create a voice profile, find (or create) the _GameName/Resources/GameName/VoiceProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > VoiceProfile_.
