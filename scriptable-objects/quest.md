@@ -82,6 +82,12 @@ There are many different types of quest objectives which will be covered below. 
 | ---------- | ------------------------------------------------------------- |
 | Quest Name | The name of another [Quest](quest.md) that must be completed. |
 
+#### Status Effect Objective
+
+| Name        | Description                                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| Effect Name | The name of a [Status Effect](ability-effects/status-effect.md) that must be applied to the character. |
+
 #### Trade Skill Objective
 
 | Name       | Description                                           |
