@@ -7,6 +7,8 @@ description: >-
 
 # Dialog
 
+{% embed url="https://youtu.be/p62ggYo7D0Q" %}
+
 ## Creation
 
 To create a dialog, find (or create) the _GameName/Resources/GameName/Dialog_ folder in the project tab and right click.  Choose _Create > AnyRPG > Dialog > Dialog_.
