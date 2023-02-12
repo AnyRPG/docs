@@ -7,6 +7,8 @@ description: >-
 
 # Gather Ability
 
+{% embed url="https://youtu.be/DuNoF0h7lUc" %}
+
 ## Creation
 
 To create a gather ability, find (or create) the _GameName/Resources/GameName/BaseAbility_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > GatherAbility_.

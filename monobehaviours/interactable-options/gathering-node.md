@@ -6,6 +6,8 @@ description: >-
 
 # Gathering Node
 
+{% embed url="https://youtu.be/DuNoF0h7lUc" %}
+
 ## Properties
 
 A Gathering Node has [Gathering Node Config Properties](../../scriptable-objects/interactable-option-configurations/gathering-node-config.md#properties).

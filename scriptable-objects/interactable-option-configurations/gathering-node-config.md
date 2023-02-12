@@ -6,6 +6,8 @@ description: >-
 
 # Gathering Node Config
 
+{% embed url="https://youtu.be/DuNoF0h7lUc" %}
+
 ## Creation
 
 To create a gathering node config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > GatheringNodeConfig_.
