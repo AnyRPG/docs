@@ -7,6 +7,8 @@ description: >-
 
 # Craft Ability
 
+{% embed url="https://youtu.be/91BfCovDp28" %}
+
 ## Creation
 
 To create a craft ability, find (or create) the _GameName/Resources/GameName/BaseAbility_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > CraftAbility_.

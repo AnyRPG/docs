@@ -4,6 +4,8 @@ description: A recipe item is an item that reaches the player a recipe when used
 
 # Recipe Item
 
+{% embed url="https://youtu.be/91BfCovDp28" %}
+
 ## Creation
 
 To create a recipe item, find (or create) the _GameName/Resources/GameName/Item_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > RecipeItem_.

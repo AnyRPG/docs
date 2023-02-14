@@ -6,6 +6,8 @@ description: >-
 
 # Crafting Node
 
+{% embed url="https://youtu.be/91BfCovDp28" %}
+
 ## Properties
 
 A Crafting Node has [Crafting Node Config Properties](crafting-node.md#properties).

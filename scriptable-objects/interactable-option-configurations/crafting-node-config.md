@@ -6,6 +6,8 @@ description: >-
 
 # Crafting Node Config
 
+{% embed url="https://youtu.be/91BfCovDp28" %}
+
 ## Creation
 
 To create a crafting node config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > CraftingNodeConfig_.
