@@ -41,6 +41,7 @@ To create a unit prefab profile, find (or create) the _GameName/Resources/GameNa
 | Suppress Name Plate                 | If true, no nameplate will be shown above this character.                                                                                                       |
 | Suppress Faction                    | If true, the faction will not be shown on the nameplate.                                                                                                        |
 | Override Nameplate Position         | If true, the nameplate position will be shown at the manual value in the _Name Plate Position_ field.                                                           |
+| Use Snap Shot                       | If true, a snapshot of the target will be used.  If false, the [Unit Profile](unit-profile.md) image will be used.                                              |
 | Unit Frame Target                   | The name of a bone that the camera will look at when taking a snapshot for the unit frame.                                                                      |
 | Unit Frame Camera Look Offset       | Any Vector3 offset that the camera will look at relative to the _Unit Frame Target_.                                                                            |
 | Unit Frame Camera Position Offset   | The position of the unit frame camera relative to the _Unit Frame Target_.                                                                                      |
