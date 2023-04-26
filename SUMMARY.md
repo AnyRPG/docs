@@ -55,6 +55,7 @@
   * [Summon Effect](scriptable-objects/ability-effects/summon-effect.md)
   * [Taunt Effect](scriptable-objects/ability-effects/taunt-effect.md)
   * [Teleport Effect](scriptable-objects/ability-effects/teleport-effect.md)
+* [Achievement](scriptable-objects/achievement.md)
 * [Animated Action](scriptable-objects/animated-action.md)
 * [Animation Profile](scriptable-objects/animation-profile.md)
 * [Armor Class](scriptable-objects/armor-class.md)

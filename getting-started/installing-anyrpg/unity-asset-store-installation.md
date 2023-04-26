@@ -55,7 +55,7 @@ A warning window will pop up letting you know this package will overwrite all pr
 
 A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 When the Import Unity Package window appears, click **Import**.
 
@@ -83,14 +83,14 @@ Click _Open in Unity_.
 
 The Unity Package Manager should open in Unity.  If you have not downloaded the package yet, click **Download**.  Then Click **Import**.
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (2) (2).png>)
 
 When presented with the option, accept the defaults and click **Import**.
 
 ![](<../../.gitbook/assets/image (20).png>)
 
 Since UMA has not been updated to the new 2021 API yet, you will have to accept the script update.  Click **Yes, just for these files**.\
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 After the UMA package is imported, click **Clear** in the Console pane to clear any old warnings.
 
