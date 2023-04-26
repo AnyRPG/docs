@@ -10,7 +10,7 @@ description: A weather profile contains settings that define a certain type of w
 
 To create a weather profile, find (or create) the _GameName/Resources/GameName/WeatherProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > WeatherProfile_.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 ## Properties
 

@@ -11,11 +11,15 @@ description: >-
 
 ## Accessing The Wizard
 
-The New Game Wizard can be opened by clicking _Tools_ in the menu bar, and selecting _AnyRPG > Wizard > New Game Wizard_.
+There are 2 new game wizards included with AnyRPG; an UMA version, and a non-UMA version.  They both function the same, except the UMA version installs the UMA\_GLIB prefab (required for UMA to work properly), and UMA models for the player instead of mecanim models.
+
+The standard New Game Wizard can be opened by clicking _Tools_ in the menu bar, and selecting _AnyRPG > Wizard > New Game Wizard_.
+
+The UMA New Game Wizard can be opened by clicking _Tools_ in the menu bar, and selecting _AnyRPG > Wizard > UMA > New Game Wizard_.
 
 ![](<../.gitbook/assets/image (41).png>)
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ## Options
 
@@ -23,14 +27,14 @@ The New Game Wizard can be opened by clicking _Tools_ in the menu bar, and selec
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Game Name                   | The name of the game.  This will show on the main menu screen.                                                                                                                                                                                                                           |
 | Game Version                | A text string describing the game version.  This will show on the main menu screen.                                                                                                                                                                                                      |
-| Default Player Type         | <p>The type of character that will be available by default on the new game screen.<br>UMA : A Unity Multipurpose Avatar with customizable appearance.<br>Mecanim : A standard mecanim character with no customization options.</p>                                                       |
 | Main Menu Music             | An audio clip to play when the main menu scene is open.                                                                                                                                                                                                                                  |
 | New Game Music              | An audio clip to play when the new game window is open on the main menu.                                                                                                                                                                                                                 |
 | First Scene Name            | The file name of the default scene that will load when a new game is started.  This will also show as the title for the minimap when that scene is open.                                                                                                                                 |
 | Copy Existing Scene         | If this option is not chosen, the first scene will be based on a blank template with only a large flat plane for the player to move around on.  If this option is chosen, you can select an existing scene in the project to copy that will be used instead of the blank template scene. |
 | Existing Scene              | If _Copy Existing Scene_ is selected, link the scene that should serve as the template for the first scene here.                                                                                                                                                                         |
-| First Scene Ambient Sounds  | An audio clip of ambient environmental sounds to play when the first scene is open.                                                                                                                                                                                                      |
-| First Scene Music           | An audio clip of background music to play when the first scene is open.                                                                                                                                                                                                                  |
+| Day Ambient Sounds          | An audio clip of ambient environmental sounds to play during the day when the first scene is open.                                                                                                                                                                                       |
+| Night Ambient Sounds        | An audio clip of ambient environmental sounds to play during the night when the first scene is open.                                                                                                                                                                                     |
+| Background Music            | An audio clip of background music to play when the first scene is open.                                                                                                                                                                                                                  |
 | Install Gold Currency Group | Installs the _Gold Currency Group_ template that consists of gold, silver, and copper.                                                                                                                                                                                                   |
 | Install Armor Classes       | Installs the All Armor Classes template that consists of cloth, leather, and plate armor classes.                                                                                                                                                                                        |
 | Install Character Stats     | Installs the All Character Stats template that consists of stamina, intellect, strength, and agility.                                                                                                                                                                                    |
@@ -46,7 +50,7 @@ The New Game Wizard can be opened by clicking _Tools_ in the menu bar, and selec
 
 After choosing the appropriate options for your game, click Create.
 
-![](<../.gitbook/assets/image (35).png>)
+![](../.gitbook/assets/image.png)
 
 ## Content Created
 
@@ -74,7 +78,7 @@ The Scene Config prefab is a special prefab that can go in any scene to allow yo
 
 #### UMA\_GLIB
 
-The UMA Global Library is required for the Unity Multipurpose Avatar system to function properly, and will have already been placed in the game loading scene by the wizard.
+If the UMA version of the wizard was used, UMA\_GLIB prefab will have been installed. The UMA Global Library is required for the Unity Multipurpose Avatar system to function properly, and will have already been placed in the game loading scene by the wizard.
 
 ### Portal Prefab
 
@@ -103,9 +107,9 @@ System Effects can be found in the Resources/GameName/AbilityEffect/System folde
 
 #### Unit Profiles
 
-Unit profiles are character definitions and can be found in the Resources/GameName/UnitProfile/Player folder.  By default, a definition for an UMA character, and a standard mecanim character will have been created.  The Game Manager will have been configured to use whichever unity type you selected on the New Game Wizard screen.
+Unit profiles are character definitions and can be found in the Resources/GameName/UnitProfile/Player folder.  By default, definitions for male and female characters will have been created.  If the UMA version of the wizard was used, the installed unit profiles will be UMA profiles instead of mecanim profiles.
 
-![](<../.gitbook/assets/image (78).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 #### Other Scriptable Objects
 

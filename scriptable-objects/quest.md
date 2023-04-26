@@ -12,7 +12,7 @@ description: >-
 
 To create a quest, find (or create) the _GameName/Resources/GameName/Quest_ folder in the project tab and right click.  Choose _Create > AnyRPG > Quest_.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (8).png>)
 
 ## Properties
 
