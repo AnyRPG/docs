@@ -16,6 +16,10 @@ To create a character race, find (or create) the _GameName/Resources/GameName/Ch
 
 | Name                | Description                                                                                                                                                                                   |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New Game Option     | If true, this race is available for players to choose on the new game menu, no matter what faction is chosen.                                                                                 |
+| Male Unit Profile   | The [Unit Profile](unit-profile.md) to use when the male gender is chosen.                                                                                                                    |
+| Female Unit Profile | The [Unit Profile](unit-profile.md) to use when the female gender is chosen.                                                                                                                  |
+| Environment Preview | [Environment Preview properties](../shared-properties/environment-preview.md#properties).                                                                                                     |
 | Equipment Names     | A List of equipment that will be equipped by characters that choose the character class when starting a new game.                                                                             |
 | Default Hit Effects | A list of [Ability Effects](ability-effects/) to cast on the target when the character does not have a [Weapon](items/weapon.md) equipped and does damage from a standard (auto) attack.      |
 | On Hit Effects      | A list of [Ability Effects](ability-effects/) to cast on the target when the [Weapon](items/weapon.md) does damage from any attack, including standard (auto) attacks.                        |

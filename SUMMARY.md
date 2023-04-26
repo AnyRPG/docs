@@ -203,5 +203,6 @@
 ## Shared Properties
 
 * [Capabilities](shared-properties/capabilities.md)
+* [Environment Preview](shared-properties/environment-preview.md)
 * [Prerequisite Conditions](shared-properties/prerequisite-conditions.md)
 * [Stat Scaling Nodes](shared-properties/stat-scaling-nodes.md)
