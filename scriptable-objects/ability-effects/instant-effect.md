@@ -10,7 +10,7 @@ description: >-
 
 To create an instant effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > InstantEffect_.
 
-![](<../../.gitbook/assets/image (2) (7).png>)
+![](<../../.gitbook/assets/image (2) (7) (1).png>)
 
 ## Properties
 

@@ -25,6 +25,7 @@
 * [New Character Wizard](wizards/new-character-wizard.md)
 * [New Weapon Wizard](wizards/new-weapon-wizard.md)
 * [Minimap Wizard](wizards/minimap-wizard.md)
+* [Rename Wizard](wizards/rename-wizard.md)
 
 ## Scriptable Objects
 

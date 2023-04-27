@@ -19,7 +19,7 @@ The AnyRPG Unity package is exported as a complete project because it requires s
 You can find the correct Unity version right on the asset store page.\
 
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ## Create a New Unity 3D Project
 
@@ -47,7 +47,7 @@ When the package manager opens in Unity, click the Download button to download t
 
 Once the package has downloaded, the **Import** button should become available.  Click it.
 
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click **Import**.
 

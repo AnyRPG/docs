@@ -11,7 +11,7 @@ description: >-
 
 To create a pet control effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > PetControlEffect_.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (4).png>)
 
 ## Properties
 
