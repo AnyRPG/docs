@@ -26,4 +26,4 @@ The Rename Wizard can be opened by clicking _Tools_ in the menu bar, and selecti
 
 After choosing all the settings, click Rename to run the wizard.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)

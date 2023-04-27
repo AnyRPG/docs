@@ -137,6 +137,8 @@
 * [Skill](scriptable-objects/skill.md)
 * [Status Effect Group](scriptable-objects/status-effect-group.md)
 * [Status Effect Type](scriptable-objects/status-effect-type.md)
+* [Swappable Mesh Model Profile](scriptable-objects/swappable-mesh-model-profile.md)
+* [UMA Model Profile](scriptable-objects/uma-model-profile.md)
 * [Unit Prefab Profile](scriptable-objects/unit-prefab-profile.md)
 * [Unit Profile](scriptable-objects/unit-profile.md)
 * [Unit Toughness](scriptable-objects/unit-toughness.md)

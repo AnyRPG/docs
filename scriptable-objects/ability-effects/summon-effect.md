@@ -8,7 +8,7 @@ description: A summon effect summons a character to act as a pet.
 
 To create a summon effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > SummonEffect_.
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../.gitbook/assets/image (5) (2) (1).png>)
 
 ## Properties
 

@@ -51,7 +51,7 @@ Once the package has downloaded, the **Import** button should become available. 
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click **Import**.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
 

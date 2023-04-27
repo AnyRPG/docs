@@ -18,6 +18,7 @@ To create a unit prefab profile, find (or create) the _GameName/Resources/GameNa
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Unit Prefab                   | A link to a prefab that will be used for the character unit.  The unit prefab does not have to, but can optionally, include a model.                                                        |
 | Model Prefab                  | A link to a prefab that will be used for the character model if the model is separate from the _Unit Prefab_.                                                                               |
+| Model Provider                |                                                                                                                                                                                             |
 | Animation Profile Name        | The name of an [Animation Profile](animation-profile.md) that will be used for the model animations.                                                                                        |
 | Use Inline Animation Props    | If true, the _Animation Props_ field will be used for animation properties, instead of a shared [Animation Profile](animation-profile.md).                                                  |
 | Animation Props               | Inline properties of an [Animation Profile](animation-profile.md).                                                                                                                          |
@@ -48,6 +49,26 @@ To create a unit prefab profile, find (or create) the _GameName/Resources/GameNa
 | Unit Preview Target                 | The name of a bone that the camera will look when displaying the character in a full body unit preview window.                                                  |
 | Unit Preview Camera Look Offset     | Any Vector3 offset that the camera will look at relative to the _Unit Preview Target_.                                                                          |
 | Unit Preview Camera Position Offset | The position of the unit preview camera relative to the _Unit Preview Target_.                                                                                  |
+
+### Model Provider Properties
+
+Currently, there are 2 model providers: UMAModelProvider and SwappableMeshModelProvider.  The UMA model provider can be used on UMA units, and the swappable mesh model provider can be used on units that contain multiple meshes that can be enabled or disabled to change appearance.
+
+#### UMAModelProvider Properties
+
+| Name               | Description                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------------ |
+| Use Inline Options | If true, the options in the _Inline Options_ field will be used instead of the _Shared Options_. |
+| Inline Options     | [UMA Model Profile Properties](uma-model-profile.md#properties).                                 |
+| Shared Options     | The name of an [UMA Model Profile](uma-model-profile.md).                                        |
+
+#### SwappableMeshModelProvider Properties
+
+| Name               | Description                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------------------ |
+| Use Inline Options | If true, the options in the _Inline Options_ field will be used instead of the _Shared Options_. |
+| Inline Options     | [Swappable Mesh Model Profile Properties](swappable-mesh-model-profile.md#properties).           |
+| Shared Options     | The name of a [Swappable Mesh Model Profile](swappable-mesh-model-profile.md).                   |
 
 ## Next Steps
 
