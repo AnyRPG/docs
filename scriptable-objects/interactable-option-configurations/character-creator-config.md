@@ -15,8 +15,6 @@ To create a character creator config, find (or create) the _GameName/Resources/G
 
 ## Properties
 
-A bank config does not have any properties other than the properties shared by all [Interactable Option Configs](./#properties).
-
 | Name                | Description                                                                                                                                                                                                                                                                                                          |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Allow Gender Change | If true, the player can swap between male and female models, assuming the current [Race](../character-race.md) has options configured for both.                                                                                                                                                                      |

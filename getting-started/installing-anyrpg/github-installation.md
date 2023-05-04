@@ -91,11 +91,9 @@ Open the Window menu in Unity and choose _TextMeshPro > Import TMP Essential Res
 
 ![](<../../.gitbook/assets/image (4) (2).png>)
 
-{% hint style="warning" %}
-AnyRPG Includes a modified version of the Liberation Sans SDF Asset so be sure to **uncheck** the box beside AnyRPG before clicking _Import_.
-{% endhint %}
+When presented with the option, accept the defaults and click **Import**.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Next Steps
 

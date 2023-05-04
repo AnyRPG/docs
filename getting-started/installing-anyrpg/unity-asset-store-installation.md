@@ -47,11 +47,11 @@ When the package manager opens in Unity, click the Download button to download t
 
 Once the package has downloaded, the **Import** button should become available.  Click it.
 
-<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click **Import**.
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../.gitbook/assets/image (5) (2) (1).png>)
 
 A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
 
@@ -114,11 +114,9 @@ Open the Window menu in Unity and choose _TextMeshPro > Import TMP Essential Res
 
 ![](<../../.gitbook/assets/image (4) (2).png>)
 
-{% hint style="warning" %}
-AnyRPG Includes a modified version of the Liberation Sans SDF Asset so be sure to **uncheck** the box beside AnyRPG before clicking _Import_.
-{% endhint %}
+When presented with the option, accept the defaults and click **Import**.
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Next Steps
 
