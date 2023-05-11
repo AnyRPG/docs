@@ -5,7 +5,7 @@ description: >-
   controlled by switches.
 ---
 
-# Interactables
+# Interactable
 
 ## Usage
 
@@ -20,12 +20,7 @@ In addition to the properties of the base class, [Spawnable](spawnable.md), Inte
 | Show Tooltip                      | If true, a UI tooltip will be shown when the mouse hovers over the object.                                                                                                                     |
 | Interactable Name                 | The name of the object that will be shown in the mouseover tooltip.                                                                                                                            |
 | Glow On Mouse Over                | If true, the material of the object will be replaced with a glowing material while the mouse is hovering over it.                                                                              |
-| Light Emission                    | If true, the glow emits light on objects around it.                                                                                                                                            |
-| Glow Flash Speed                  | The time period in seconds between high and low intensity of the glow strength.                                                                                                                |
-| Glow Min Intensity                | The minimum intensity the object should glow with.                                                                                                                                             |
-| Glow Max Intensity                | The maximum intensity the object should glow with.                                                                                                                                             |
-| Glow Color                        | The color of light to emit when glowing.                                                                                                                                                       |
-| Temporary Material                | The glow material that should replace any normal materials on this object while glowing.                                                                                                       |
+| Glow Color                        | The default color of the glow outline.  This will be overridden on character units depending on the faction relationship color.                                                                |
 | Interaction Tooltip Text          | Set this value to override the default 'Interact' option for the gamepad interaction tooltip                                                                                                   |
 | Not Interactable                  | Set this value to prevent direct interaction from the player. This can be useful for interactables that only need to be activated with control switches.                                       |
 | Interact With Any                 | Set this to true to allow triggering interaction with anything that has a collider, not just players.                                                                                          |

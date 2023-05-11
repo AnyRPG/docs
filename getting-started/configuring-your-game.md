@@ -192,11 +192,11 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 
 ### Mini Map
 
-| Name                          | Description                                                                                                                                                                                                    |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Auto Pixels Per Meter         | When a minimap texture for a scene cannot be found, how many pixels per meter should be used when taking an automatic snapshot. A higher number results in better image quality, but also higher memory usage. |
-| Player Mini Map Icon          | The icon to show on the mini map to represent the player.                                                                                                                                                      |
-| Player Mini Map Icon Rotation | If the icon does not face up on the screen, enter the number of clockwise degrees the image is naturally rotated. This will be subtracted from the player angle at run-time.                                   |
+| Name                    | Description                                                                                                                                                                                                    |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Auto Pixels Per Meter   | When a minimap texture for a scene cannot be found, how many pixels per meter should be used when taking an automatic snapshot. A higher number results in better image quality, but also higher memory usage. |
+| Player Mini Map Icon    | The icon to show on the mini map to represent the player.                                                                                                                                                      |
+| Character Mini Map Icon | The icon to show on the mini map to represent all PC and NPC characters that are not the current player.                                                                                                       |
 
 ### Unit Frames
 
