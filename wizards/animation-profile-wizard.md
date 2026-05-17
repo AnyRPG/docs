@@ -45,7 +45,7 @@ After assigning the appropriate animations, click Create.
 
 An [Animation Profile](../scriptable-objects/animation-profile.md) can be found at the _Resources/GameName/AnimationProfile_ folder.
 
-![](broken-reference)
+![](/broken/files/2Hic16QRxvoIRNYOMMUl)
 
 ## Next Steps
 

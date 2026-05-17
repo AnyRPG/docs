@@ -19,7 +19,7 @@ The UMA New Game Wizard can be opened by clicking _Tools_ in the menu bar, and s
 
 ![](<../.gitbook/assets/image (41).png>)
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## Options
 
@@ -50,7 +50,7 @@ The UMA New Game Wizard can be opened by clicking _Tools_ in the menu bar, and s
 
 After choosing the appropriate options for your game, click Create.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (9).png>)
 
 ## Content Created
 

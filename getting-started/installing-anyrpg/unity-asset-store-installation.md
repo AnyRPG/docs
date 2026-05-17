@@ -16,10 +16,9 @@ AnyRPG Core can be found on the Unity Asset Store at [https://assetstore.unity.c
 
 The AnyRPG Unity package is exported as a complete project because it requires specific build settings, compiler settings, layers, and tags to function. Due to the way full projects are exported in Unity, they must be imported with the **same or higher** Unity version they were exported with.
 
-You can find the correct Unity version right on the asset store page.\
+You can find the correct Unity version right on the asset store page.<br>
 
-
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (4).png>)
 
 ## Create a New Unity 3D Project
 
@@ -43,15 +42,15 @@ Once the asset is added to your assets, click the **Open in Unity** button.
 
 When the package manager opens in Unity, click the Download button to download the package.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Once the package has downloaded, the **Import** button should become available.  Click it.
 
-<img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (3) (1) (1) (3).png" alt="" data-size="original">
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click **Import**.
 
-![](<../../.gitbook/assets/image (5) (2) (1).png>)
+![](<../../.gitbook/assets/image (5) (2) (1) (1).png>)
 
 A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
 
@@ -94,7 +93,7 @@ Since UMA has not been updated to the new 2021 API yet, you will have to accept 
 
 After the UMA package is imported, click **Clear** in the Console pane to clear any old warnings.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (4).png>)
 
 You should no longer see any errors.
 
@@ -116,7 +115,7 @@ Open the Window menu in Unity and choose _TextMeshPro > Import TMP Essential Res
 
 When presented with the option, accept the defaults and click **Import**.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 ## Next Steps
 

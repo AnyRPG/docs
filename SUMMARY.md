@@ -7,11 +7,12 @@
 * [Installing AnyRPG](getting-started/installing-anyrpg/README.md)
   * [Unity Asset Store Installation](getting-started/installing-anyrpg/unity-asset-store-installation.md)
   * [Github Installation](getting-started/installing-anyrpg/github-installation.md)
-  * [Unity Package Installation](getting-started/installing-anyrpg/unity-package-installation.md)
 * [Included sample games](getting-started/included-sample-games.md)
 * [Creating your first game](getting-started/creating-your-first-game.md)
 * [Configuring your game](getting-started/configuring-your-game.md)
 * [Adding Content To Your Game](getting-started/adding-content-to-your-game.md)
+* [Managing Addons](getting-started/managing-addons/README.md)
+  * [UMA Installation](getting-started/managing-addons/uma-installation.md)
 
 ## Wizards
 
