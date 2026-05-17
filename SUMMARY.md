@@ -7,12 +7,17 @@
 * [Installing AnyRPG](getting-started/installing-anyrpg/README.md)
   * [Unity Asset Store Installation](getting-started/installing-anyrpg/unity-asset-store-installation.md)
   * [Github Installation](getting-started/installing-anyrpg/github-installation.md)
+* [Managing Addons](getting-started/managing-addons/README.md)
+  * [UMA Installation](getting-started/managing-addons/uma-installation.md)
+  * [FishNet (MMO) Networking](getting-started/managing-addons/fishnet-mmo-networking.md)
+  * [FishNet-UMA Integration](getting-started/managing-addons/fishnet-uma-integration.md)
+  * [Movement Test Game](getting-started/managing-addons/movement-test-game.md)
+  * [CC0 Fantasy Content Pack](getting-started/managing-addons/cc0-fantasy-content-pack.md)
+  * [A Lost Soul Demo Games](getting-started/managing-addons/a-lost-soul-demo-games.md)
 * [Included sample games](getting-started/included-sample-games.md)
 * [Creating your first game](getting-started/creating-your-first-game.md)
 * [Configuring your game](getting-started/configuring-your-game.md)
 * [Adding Content To Your Game](getting-started/adding-content-to-your-game.md)
-* [Managing Addons](getting-started/managing-addons/README.md)
-  * [UMA Installation](getting-started/managing-addons/uma-installation.md)
 
 ## Wizards
 
