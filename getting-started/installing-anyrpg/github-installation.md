@@ -12,8 +12,6 @@ The AnyRPG Unity package is exported as a complete project because it requires s
 
 The correct Unity Version for the current github project is 6000.3.10f1 and can be downloaded from&#x20;
 
-
-
 [https://unity3d.com/get-unity/download/archive](https://unity3d.com/get-unity/download/archive)
 
 ## Download the Project From Github
@@ -22,7 +20,7 @@ Choose one of the download methods that Github offers.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
-For example, you can clone the project into a directory on your computer if you have the git CLI installed using the command `git clone https://github.com/AnyRPG/AnyRPGCore.git`
+For example, you can clone the project into a directory on your computer if you have the [git CLI](https://git-scm.com/install/) installed using the command `git clone https://github.com/AnyRPG/AnyRPGCore.git`
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
