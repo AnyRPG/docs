@@ -1,7 +1,7 @@
 ---
 description: >-
-  The AnyRPG Core package is available via github and the Unity Asset Store.
-  This page describes how to install it from github.
+  The AnyRPG Core package is available on github and the Unity Asset Store. This
+  page describes how to install it from github.
 ---
 
 # Github Installation
