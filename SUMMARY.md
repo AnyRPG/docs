@@ -27,6 +27,7 @@
 * [New Equipment Set Wizard](wizards/new-equipment-set-wizard.md)
 * [Animation Profile Wizard](wizards/animation-profile-wizard.md)
 * [Screenshot Wizard](wizards/screenshot-wizard.md)
+* [Billboard Wizard](wizards/billboard-wizard.md)
 * [Template Content Wizard](wizards/template-content-wizard.md)
 * [New Character Wizard](wizards/new-character-wizard.md)
 * [New Weapon Wizard](wizards/new-weapon-wizard.md)

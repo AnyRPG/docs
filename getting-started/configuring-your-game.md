@@ -386,18 +386,4 @@ The System Configuration Manager has over 100 settings. They are grouped in comm
 
 ### Network
 
-| Name                         | Description                                                                                                                                                                                              |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Server Backend               | The backend that will be used to store and retrieve player and account data. The File mode will store data in files on the local server and is appropriate for quick testing of single server instances. |
-| API Server Address           | The address of the API server that the dedicated game server will connect to for database operations. Do not use a trailing slash.                                                                       |
-| Validate API Server Cert     | This should only be set to false during development and testing when the APIServer is using a self-signed SSL certificate.                                                                               |
-| API Server Shared Secret     | This is the shared secret that allows the game server to login to the API server.                                                                                                                        |
-| Game Server Address          | This is the address (and optionally port) of the dedicated authoritative game server that all clients connect to. Users can change this value on the login window.                                       |
-| Client Version               | If the server and client both do not have this version, the client will be told to upgrade.                                                                                                              |
-| Client Download Url          | This is the address of a web page where the latest client can be downloaded.                                                                                                                             |
-| Lobby Game Scene Names       | The list of scenes that can be chosen in lobby game mode.                                                                                                                                                |
-| Private Message Chat Command | The chat command that is configured to send a private message (eg: tell or whisper)                                                                                                                      |
-| Personal Instance Timeout    | The length of time (in minutes) a personal instance must be empty before the scene is unloaded. -1 means it never unloads.                                                                               |
-| Group Instance Timeout       | The length of time (in minutes) a group instance must be empty before the scene is unloaded. -1 means it never unloads.                                                                                  |
-| Lobby Game Instance Timeout  | The length of time (in minutes) a lobby game instance must be empty before the scene is unloaded. -1 means it never unloads.                                                                             |
-| World Instance Timeout       | The length of time (in minutes) a world instance must be empty before the scene is unloaded. -1 means it never unloads.                                                                                  |
+See the [AnyMMO documentation](https://docs.anyrpg.org/anymmo/getting-started/configuring-your-game) for a list of settings that apply when online play is enabled.
