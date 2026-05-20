@@ -47,6 +47,6 @@ If this animation profile will be used for an ability (spell) the animation(s) s
 
 * Assign the animation profile to a [Weapon](items/weapon.md) to override the movement and auto-attack animations used while that weapon is equipped.
 * Assign the animation profile to a [Weapon Skill](weapon-skill.md) to override the movement and auto-attack animations for any weapon with that weapon skill assigned while equipped.
-* Assign the animation profile to an [Animated Ability](abilities/animated-ability.md) to use the Attack Clips for the attack animations.
+* Assign the animation profile to an [Animated Ability](/broken/pages/eTwirBs9XjyLiHj0mjw4) to use the Attack Clips for the attack animations.
 * Assign the animation profile to an [Ability](abilities/) to use the Cast Clips for casting animations.
 * Assign the animation profile to a [Unit Prefab Profile](unit-prefab-profile.md), or _Unit Prefab Properties_ on a [Unit Profile](unit-profile.md) to override the default system animations for that character.

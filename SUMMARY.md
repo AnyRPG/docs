@@ -39,10 +39,7 @@
 
 * [Scriptable Objects Introduction](scriptable-objects/scriptable-objects-introduction.md)
 * [Abilities](scriptable-objects/abilities/README.md)
-  * [Animated Ability](scriptable-objects/abilities/animated-ability.md)
-  * [Channeled Ability](scriptable-objects/abilities/channeled-ability.md)
   * [Craft Ability](scriptable-objects/abilities/craft-ability.md)
-  * [Direct Ability](scriptable-objects/abilities/instant-effect-ability.md)
   * [Gather Ability](scriptable-objects/abilities/gather-ability.md)
 * [Ability Effects](scriptable-objects/ability-effects/README.md)
   * [AOE Effect](scriptable-objects/ability-effects/aoe-effect.md)
