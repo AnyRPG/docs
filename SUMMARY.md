@@ -33,6 +33,7 @@
 * [New Weapon Wizard](wizards/new-weapon-wizard.md)
 * [Minimap Wizard](wizards/minimap-wizard.md)
 * [Rename Wizard](wizards/rename-wizard.md)
+* [Sync Resource Name Wizard](wizards/sync-resource-name-wizard.md)
 
 ## Scriptable Objects
 
