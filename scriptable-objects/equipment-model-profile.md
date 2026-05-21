@@ -10,17 +10,20 @@ description: >-
 
 To create an equipment model profile, find (or create) the _GameName/Resources/GameName/EquipmentModelProfile_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > EquipmentModelProfile_.
 
-![](<../.gitbook/assets/image (4) (2) (1).png>)
-
 ## Properties
 
 UMA Equipment Model properties will be used when the character model is configured as an UMA model.
 
-| Name             | Description                                                                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Equipment Models | A list of equipment model providers that will be used to display the gear, depending on what equipment model is used.  Valid options are listed below. |
+| Name                    | Description                                                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Apply To Equipment Name | The name of the equipment this model profile will be added to at run-time.                                                                             |
+| Equipment Models        | A list of equipment model providers that will be used to display the gear, depending on what equipment model is used.  Valid options are listed below. |
 
 ### UMAEquipmentModel
+
+{% hint style="info" %}
+This option is only available if the AnyRPG UMA addon is installed.
+{% endhint %}
 
 UMA Equipment Model properties will be used when the character model is configured as an UMA model.
 

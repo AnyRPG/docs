@@ -10,8 +10,6 @@ description: Set level commands set the player level.
 
 To create a set level command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click.  Choose _Create > AnyRPG > Chat Commands > Set Level Command_.
 
-![](<../../.gitbook/assets/image (119).png>)
-
 ## Properties
 
 | Name         | Description                                                                                      |
