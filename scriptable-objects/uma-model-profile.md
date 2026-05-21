@@ -6,11 +6,15 @@ description: >-
 
 # UMA Model Profile
 
+##
+
+{% hint style="info" %}
+This Scriptable Object is only available if you have the AnyRPG UMA addon installed.
+{% endhint %}
+
 ## Creation
 
 To create an UMA model profile, find (or create) the _GameName/Resources/GameName/UMAModelProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > UMAModelProfile_.
-
-![](<../.gitbook/assets/image (2) (1).png>)
 
 ## Properties
 

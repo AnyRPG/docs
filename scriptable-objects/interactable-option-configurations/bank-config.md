@@ -10,8 +10,6 @@ description: >-
 
 To create a bank config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > BankConfig_.
 
-![](<../../.gitbook/assets/image (6) (4).png>)
-
 ## Properties
 
 A bank config does not have any properties other than the properties shared by all [Interactable Option Configs](./#properties).
