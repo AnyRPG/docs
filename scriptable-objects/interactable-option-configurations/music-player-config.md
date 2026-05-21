@@ -10,8 +10,6 @@ description: >-
 
 To create a music player config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > MusicPlayerConfig_.
 
-![](<../../.gitbook/assets/image (7) (2).png>)
-
 ## Properties
 
 | Name                | Description                                                                                                                                                                                                                                                                                                                                                                       |

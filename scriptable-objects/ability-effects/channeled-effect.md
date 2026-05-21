@@ -10,8 +10,6 @@ description: >-
 
 To create a channeled effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > ChanneledEffect_.
 
-![](<../../.gitbook/assets/image (14).png>)
-
 ## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), channeled effects have the following properties.

@@ -10,8 +10,6 @@ description: >-
 
 To create a class specialization, find (or create) the _GameName/Resources/GameName/CombatStrategy_ folder in the project tab and right click.  Choose _Create > AnyRPG > Combat > CombatStrategy_.
 
-![](<../.gitbook/assets/image (115).png>)
-
 ## Properties
 
 | Name        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

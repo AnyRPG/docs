@@ -10,8 +10,6 @@ description: >-
 
 To create a unit profile, find (or create) the _GameName/Resources/GameName/UnitProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > UnitProfile_.
 
-![](<../.gitbook/assets/image (1) (2) (3).png>)
-
 ## Properties
 
 The default properties of a character unit are listed below.  Some of these properties can be overridden if this character is used as a player.

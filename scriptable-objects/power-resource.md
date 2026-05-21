@@ -11,8 +11,6 @@ description: >-
 
 To create a power resource, find (or create) the _GameName/Resources/GameName/PowerResource_ folder in the project tab and right click.  Choose _Create > AnyRPG > PowerResource_.
 
-![](<../.gitbook/assets/image (1) (1) (2).png>)
-
 ## Properties
 
 | Name                    | Description                                                                                                                                                        |

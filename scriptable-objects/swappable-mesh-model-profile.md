@@ -11,8 +11,6 @@ description: >-
 
 To create a swappable mesh model profile, find (or create) the _GameName/Resources/GameName/SwappableMeshModelProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > SwappableMeshModelProfile_.
 
-![](<../.gitbook/assets/image (5) (2) (1).png>)
-
 ## Properties
 
 Swappable mesh model profiles, contain one property, Model Options, with the following fields.

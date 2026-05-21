@@ -10,8 +10,6 @@ description: Learn ability commands allow the player to learn abilities.
 
 To create a learn ability command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click. Choose _Create > AnyRPG > Chat Commands > Learn Ability Command_.​​​
 
-![](<../../.gitbook/assets/image (120).png>)
-
 ## Properties <a href="#properties" id="properties"></a>
 
 | Name          | Description                                                                                |

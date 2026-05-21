@@ -10,8 +10,6 @@ description: >-
 
 To create a direct effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > DirectEffect_.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (4) (1).png>)
-
 ## Properties
 
 Direct Effects do not have any properties other than the properties provided by their parent class, [Fixed Length Effect](./#fixed-length-effect-properties).

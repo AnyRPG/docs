@@ -10,8 +10,6 @@ description: >-
 
 To create a projectile effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > ProjectileEffect_.
 
-![](<../../.gitbook/assets/image (1) (3).png>)
-
 ## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), projectile effects have the following properties.

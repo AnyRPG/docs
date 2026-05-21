@@ -10,8 +10,6 @@ description: >-
 
 To create a behavior profile, find (or create) the _GameName/Resources/GameName/BehaviorProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > BehaviorProfile_.
 
-![](<../.gitbook/assets/image (125).png>)
-
 ## Properties
 
 | Name                    | Description                                                                                                                              |

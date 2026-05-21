@@ -11,8 +11,6 @@ description: >-
 
 To create a currency group, find (or create) the _GameName/Resources/GameName/CurrencyGroup_ folder in the project tab and right click.  Choose _Create > AnyRPG > Currencies > CurrencyGroup_.
 
-![](<../.gitbook/assets/image (132).png>)
-
 ## Properties
 
 | Name                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                             |

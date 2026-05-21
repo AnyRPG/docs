@@ -10,8 +10,6 @@ description: >-
 
 To create a character race, find (or create) the _GameName/Resources/GameName/CharacterRace_ folder in the project tab and right click.  Choose _Create > AnyRPG > CharacterRace_.
 
-![](<../.gitbook/assets/image (109).png>)
-
 ## Properties
 
 | Name                | Description                                                                                                                                                                                   |

@@ -10,8 +10,6 @@ description: >-
 
 To create a class specialization, find (or create) the _GameName/Resources/GameName/ClassSpecialization_ folder in the project tab and right click.  Choose _Create > AnyRPG > CharacterClassSpecialization_.
 
-![](<../.gitbook/assets/image (127).png>)
-
 ## Properties
 
 | Name                 | Description                                                                                                                                                                                                 |

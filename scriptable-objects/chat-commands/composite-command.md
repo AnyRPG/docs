@@ -10,8 +10,6 @@ description: Composite commands trigger one or more chat commands of any type.
 
 To create a composite command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click.  Choose _Create > AnyRPG > Chat Commands > Composite Command_.
 
-![](<../../.gitbook/assets/image (137).png>)
-
 ## Properties
 
 | Name          | Description                         |

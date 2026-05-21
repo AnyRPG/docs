@@ -8,8 +8,6 @@ description: A weapon is a type of equipment that does damage to an enemy when u
 
 To create a weapon, find (or create) the _GameName/Resources/GameName/Item/Equipment_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Equipment > Weapon_.
 
-![](<../../.gitbook/assets/image (5) (2) (1) (1) (1).png>)
-
 ## Properties
 
 In addition to the properties shared by all [Equipment](equipment.md), weapons have the following unique properties.

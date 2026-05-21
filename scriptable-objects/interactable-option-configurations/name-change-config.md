@@ -10,8 +10,6 @@ description: >-
 
 To create a name change config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > NameChangeConfig_.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (3).png>)
-
 ## Properties
 
 A name change config does not have any properties other than the properties shared by all [Interactable Option Configs](./#properties).

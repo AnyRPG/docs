@@ -10,8 +10,6 @@ description: >-
 
 To create a moveable prefab config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > MoveablePrefabConfig_.
 
-![](<../../.gitbook/assets/image (10) (2).png>)
-
 ## Properties
 
 | Name           | Description                                                                                                                   |

@@ -13,8 +13,6 @@ description: >-
 
 To create an achievement, find (or create) the _GameName/Resources/GameName/Achievement_ folder in the project tab and right click.  Choose _Create > AnyRPG > Achievement_.
 
-![](<../.gitbook/assets/image (2) (7).png>)
-
 ## Properties
 
 | Name                    | Description                                                                                                                               |

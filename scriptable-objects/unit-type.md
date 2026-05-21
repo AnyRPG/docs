@@ -10,8 +10,6 @@ description: >-
 
 To create a unit type, find (or create) the _GameName/Resources/GameName/UnitType_ folder in the project tab and right click.  Choose _Create > AnyRPG > UnitType_.
 
-![](<../.gitbook/assets/image (1) (2) (2).png>)
-
 ## Properties
 
 | Name            | Description                                                                                                                                                                                |

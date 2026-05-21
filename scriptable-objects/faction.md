@@ -10,10 +10,6 @@ description: >-
 
 To create a faction, find (or create) the _GameName/Resources/GameName/Faction_ folder in the project tab and right click.  Choose _Create > AnyRPG > Factions > Faction_.
 
-![](<../.gitbook/assets/image (98) (2).png>)
-
-
-
 ## Properties
 
 | Name                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                |

@@ -10,8 +10,6 @@ description: >-
 
 To create a quest giver profile, find (or create) the _GameName/Resources/GameName/QuestGiverProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > QuestGiverProfile_.
 
-![](<../.gitbook/assets/image (6) (2).png>)
-
 ## Properties
 
 | Name   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |

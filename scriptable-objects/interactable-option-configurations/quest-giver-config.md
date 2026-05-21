@@ -10,8 +10,6 @@ description: >-
 
 To create a quest giver config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > QuestGiverConfig_.
 
-![](<../../.gitbook/assets/image (11) (2).png>)
-
 ## Properties
 
 | Name                      | Description                                                                                                                                                                  |

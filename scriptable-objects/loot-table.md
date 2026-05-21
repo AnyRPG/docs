@@ -10,8 +10,6 @@ description: >-
 
 To create a loot table, find (or create) the _GameName/Resources/GameName/LootTable_ folder in the project tab and right click.  Choose _Create > AnyRPG > LootTable_.
 
-![](<../.gitbook/assets/image (99) (1).png>)
-
 
 
 ## Properties

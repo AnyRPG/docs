@@ -1,7 +1,7 @@
 ---
 description: >-
-  A storage container config creates a storage container interactable option,
-  which allows the character to store items.
+  A storage container allows the player to store items that will be persisted
+  with the game save data.
 ---
 
 # Storage Container Config
@@ -12,8 +12,11 @@ To create a storage container config, find (or create) the _GameName/Resources/G
 
 ## Properties
 
-A storage container config does not have any properties other than the properties shared by all [Interactable Option Configs](./#properties).
+| Name                 | Description                                                                                                                                                                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Number Of Slots      | The number of item slots in the container.                                                                                                                                                                                                                 |
+| Container Loot Table | The loot table that will be used to generate the contents of the container if it is empty when opened. This is only used if the container has not been opened before. Once the container is opened, the contents are saved and this loot table is ignored. |
 
 ## Next Steps
 
-* Add a storage container config to a [Unit Profile](../unit-profile.md) to allow the character to serve as item storage.
+* Add a storage container config to an Interactable to allow the player to teleport to another scene by interacting with it.

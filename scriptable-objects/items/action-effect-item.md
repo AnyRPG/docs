@@ -12,8 +12,6 @@ description: >-
 
 To create an action effect item, find (or create) the _GameName/Resources/GameName/Item_ folder in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Action Effect Item_.
 
-![](<../../.gitbook/assets/image (118).png>)
-
 ## Properties
 
 Action effect Items are a type of item.  See [Items](./) for their base properties.

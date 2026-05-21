@@ -10,8 +10,6 @@ description: >-
 
 To create a faction, find (or create) the _GameName/Resources/GameName/Item/Equipment_ folder (or any subfolder of that folder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Equipment > Armor_.
 
-![](<../../.gitbook/assets/image (4) (1) (2).png>)
-
 ## Properties
 
 In addition to the properties shared by all [Equipment](equipment.md), armor has the following unique properties.

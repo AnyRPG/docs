@@ -12,8 +12,6 @@ description: >-
 
 To create a crafting node config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > CraftingNodeConfig_.
 
-![](<../../.gitbook/assets/image (3) (1) (3).png>)
-
 ## Properties
 
 | Name         | Description                                                                                      |

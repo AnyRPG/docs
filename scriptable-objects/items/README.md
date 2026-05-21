@@ -8,8 +8,6 @@ description: Items are objects that can be placed in the character inventory.
 
 To create an item, find (or create) the _GameName/Resources/GameName/Item_ folder in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Item_.
 
-![](<../../.gitbook/assets/image (128).png>)
-
 ## Properties
 
 | Name                             | Description                                                                                                                                                                                                                                              |

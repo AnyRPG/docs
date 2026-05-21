@@ -10,8 +10,6 @@ description: >-
 
 To create a status effect type, find (or create) the _GameName/Resources/GameName/StatusEffectType_ folder in the project tab and right click.  Choose _Create > AnyRPG > StatusEffectType_.
 
-![](<../.gitbook/assets/image (108).png>)
-
 ## Properties
 
 Status effect types do not contain any additional properties beyond the basic [Scriptable Object](/broken/pages/U8MCEn1DHvrLWUF0wgbO) properties shared by all AnyRPG data.

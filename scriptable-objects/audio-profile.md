@@ -10,8 +10,6 @@ description: >-
 
 To create an audio profile, find (or create) the _GameName/Resources/GameName/AudioProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > AudioProfile_.
 
-![](<../.gitbook/assets/image (123).png>)
-
 ## Properties
 
 | Name        | Description                                                                                                       |

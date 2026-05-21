@@ -8,8 +8,6 @@ description: A vendor collection is a list of items that can be sold by a vendor
 
 To create a vendor collection, find (or create) the _GameName/Resources/GameName/VendorCollection_ folder in the project tab and right click.  Choose _Create > AnyRPG > VendorCollection_.
 
-![](<../.gitbook/assets/image (114).png>)
-
 ## Properties
 
 Vendor Collections have a single property, _Vendor Items_, which is a list with each element having the following fields.

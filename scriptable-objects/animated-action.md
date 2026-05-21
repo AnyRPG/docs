@@ -10,8 +10,6 @@ description: Animated Actions allow the character to perform any animation.
 
 To create an animated action, find (or create) the _GameName/Resources/GameName/AnimatedAction_ folder in the project tab and right click.  Choose _Create > AnyRPG > AnimatedAction_.
 
-![](<../.gitbook/assets/image (99) (1) (1).png>)
-
 ## Properties
 
 | Name                   | Description                                                                                                                                                                                  |

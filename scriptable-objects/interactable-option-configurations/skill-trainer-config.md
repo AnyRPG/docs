@@ -10,8 +10,6 @@ description: >-
 
 To create a skill trainer config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > SkillTrainerConfig_.
 
-![](<../../.gitbook/assets/image (3) (4).png>)
-
 ## Properties
 
 | Name        | Description                                                                                |

@@ -11,8 +11,6 @@ description: >-
 
 To create a cutscene, find (or create) the _GameName/Resources/GameName/Cutscene_ folder in the project tab and right click.  Choose _Create > AnyRPG > Cutscene_.
 
-![](<../.gitbook/assets/image (114) (1).png>)
-
 ## Properties
 
 | Name                       | Description                                                                                                       |

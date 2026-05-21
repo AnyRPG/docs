@@ -10,8 +10,6 @@ description: >-
 
 To create a currency, find (or create) the _GameName/Resources/GameName/Currency_ folder in the project tab and right click.  Choose _Create > AnyRPG > Currencies > Currency_.
 
-![](<../.gitbook/assets/image (121).png>)
-
 ## Properties
 
 Currency has no additional properties beyond the properties [shared](scriptable-objects-introduction.md#properties) by all scriptable objects.

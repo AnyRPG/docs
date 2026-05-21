@@ -12,8 +12,6 @@ description: >-
 
 To create a voice profile, find (or create) the _GameName/Resources/GameName/VoiceProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > VoiceProfile_.
 
-![](<../.gitbook/assets/image (11).png>)
-
 ## Properties
 
 | Name                  | Description                                                                                                       |

@@ -10,8 +10,6 @@ description: >-
 
 To create an item pickup config, find (or create) the _GameName/Resources/GameName/InteractableOptionConfig_ folder in the project tab and right click.  Choose _Create > AnyRPG > Interactable > ItemPickupConfig_.
 
-![](<../../.gitbook/assets/image (8) (2).png>)
-
 ## Properties
 
 | Name             | Description                                                                                                             |

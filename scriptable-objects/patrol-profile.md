@@ -10,10 +10,6 @@ description: >-
 
 To create a material profile, find (or create) the _GameName/Resources/GameName/PatrolProfile_ folder in the project tab and right click.  Choose _Create > AnyRPG > PatrolProfile_.
 
-![](<../.gitbook/assets/image (2) (1) (1) (2).png>)
-
-
-
 ## Properties
 
 A patrol profile contains a single property, Patrol Properties, which consists of the following properties.

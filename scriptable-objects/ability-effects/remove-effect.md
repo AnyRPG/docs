@@ -8,8 +8,6 @@ description: A remove effect removes a status effect from the target.
 
 To create a remove effect, find (or create) the _GameName/Resources/GameName/AbilityEffect_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Abilities > Effects > RemoveEffect_.
 
-![](<../../.gitbook/assets/image (2) (1) (2).png>)
-
 ## Properties
 
 In addition to all the properties of its parent class, [Fixed Length Effect](./#fixed-length-effect-properties), remove effects have the following properties.

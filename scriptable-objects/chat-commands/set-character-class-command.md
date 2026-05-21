@@ -10,8 +10,6 @@ description: Set character class commands set the player's character class.
 
 To create a set level command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click.  Choose _Create > AnyRPG > Chat Commands > Set Character Class Command_.
 
-![](<../../.gitbook/assets/image (119).png>)
-
 ## Properties
 
 | Name                  | Description                                                                                                           |

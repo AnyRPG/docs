@@ -10,8 +10,6 @@ description: >-
 
 To create a bag, find (or create) the _GameName/Resources/GameName/Item_ folder (or any subfolder) in the project tab and right click.  Choose _Create > AnyRPG > Inventory > Items > Bag_.
 
-![](<../../.gitbook/assets/image (4) (1) (2) (1).png>)
-
 ## Properties
 
 In addition to the properties shared by all [Items](./), bags have the following unique properties.

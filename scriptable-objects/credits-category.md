@@ -10,8 +10,6 @@ description: >-
 
 To create a credits category, find (or create) the _GameName/Resources/GameName/CreditsCategory_ folder in the project tab and right click.  Choose _Create > AnyRPG > CreditsCategory_.
 
-![](<../.gitbook/assets/image (100) (1).png>)
-
 ## Properties
 
 | Name          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

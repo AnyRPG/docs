@@ -10,8 +10,6 @@ description: >-
 
 To create a character class, find (or create) the _GameName/Resources/GameName/CharacterClass_ folder in the project tab and right click.  Choose _Create > AnyRPG > CharacterClass_.
 
-![](<../.gitbook/assets/image (131).png>)
-
 ## Properties
 
 | Name                   | Description                                                                                                                                                                                   |

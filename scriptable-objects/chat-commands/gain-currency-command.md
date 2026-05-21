@@ -10,8 +10,6 @@ description: Gain currency commands provide the player character with currencies
 
 To create a gain currency command, find (or create) the _GameName/Resources/GameName/ChatCommand_ folder in the project tab and right click.  Choose _Create > AnyRPG > Chat Commands > Gain Currency Command_.
 
-![](<../../.gitbook/assets/image (133).png>)
-
 ## Properties
 
 | Name            | Description                                                                                   |
