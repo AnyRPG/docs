@@ -10,11 +10,11 @@ description: >-
 
 Find the CC0 Fantasy Content Pack addon section. Click the web download link to download the Unity package.
 
-<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
 Once downloaded, drag the package into your project and extract it.
 
 ## Next Steps
 
-Use the template content wizard to install preconfigured characters that are available in the content pack.
+Use the [Template Content Wizard](../../wizards/template-content-wizard.md) to install preconfigured characters that are available in the content pack.
 

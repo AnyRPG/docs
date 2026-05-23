@@ -16,7 +16,7 @@ Find the A Lost Soul Demo Games addon section and scroll down to the A Lost Soul
 
 If you do not want to intall git, you can click the URL link and download a zip file.  You will need to unzip it into the Addons folder shown in the CLI hint window.
 
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 The Lost Soul demo games are now ready to play
 

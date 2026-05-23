@@ -8,7 +8,7 @@ description: >-
 
 ## Install Dependencies
 
-Follow the directions to install [UMA](uma-installation.md) and [FishNet](fishnet-mmo-networking.md).
+Follow the directions to install [UMA](uma-installation.md) and [FishNet](anymmo-fishnet.md).
 
 ## Install the AnyMMO FishNet Addon
 
@@ -16,7 +16,7 @@ Find the FishNet-UMA Integration addon section and scroll down to the AnyMMO Fis
 
 If you do not want to intall git, you can click the URL link and download a zip file.  You will need to unzip it into the Addons folder shown in the CLI hint window.
 
-<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 UMA is ready to use with FishNet is now configured and ready to use.
 

@@ -88,9 +88,6 @@ When presented with the option, accept the defaults and click **Import**.
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-Since UMA has not been updated to the new 2021 API yet, you will have to accept the script update.  Click **Yes, just for these files**.\
-![](<../../.gitbook/assets/image (2) (8) (1).png>)
-
 After the UMA package is imported, click **Clear** in the Console pane to clear any old warnings.
 
 ![](<../../.gitbook/assets/image (7) (4).png>)

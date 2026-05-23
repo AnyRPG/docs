@@ -12,7 +12,7 @@ Find the Movemente Test Game addon section.  If you have the [git CLI](https://g
 
 If you do not want to intall git, you can click the URL link and download a zip file.  You will need to unzip it into the Addons folder shown in the CLI hint window.
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 The movement test game is now ready to play.
 
