@@ -6,12 +6,10 @@ description: >-
 
 # Managing Addons
 
-## The Welcome Window
+## The Addon Manager
 
-Addons can be installed from the Welcome Window, which can be found at **Tools -> AnyRPG -> Welcome Window**.
+Addons can be managed from the Addon Manager, which can be found at **Tools -> AnyRPG -> Addon Manager**.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure></div>
 
-In the Welcome Window, click the **Install Optional Addons** menu option.
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
