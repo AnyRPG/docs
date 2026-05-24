@@ -25,6 +25,7 @@
 * [Wizards Introduction](wizards/wizards-introduction.md)
 * [New Game Wizard](wizards/new-game-wizard.md)
 * [New Scene Wizard](wizards/new-scene-wizard.md)
+* [Add  UMA Support Wizard](wizards/add-uma-support-wizard.md)
 * [New Equipment Set Wizard](wizards/new-equipment-set-wizard.md)
 * [Animation Profile Wizard](wizards/animation-profile-wizard.md)
 * [Screenshot Wizard](wizards/screenshot-wizard.md)
