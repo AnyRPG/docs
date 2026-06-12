@@ -1,24 +1,22 @@
 ---
 description: >-
-  The AnyRPG Core package is available via github and the Unity Asset Store.
-  This page describes how to install it from from the Unity Asset Store.
+  Any(MMO)RPG is available via github and the Unity Asset Store. This page
+  describes how to install it from from the Unity Asset Store.
 ---
 
 # Unity Asset Store Installation
 
-{% embed url="https://youtu.be/syI3ohFWVck" %}
+{% embed url="https://youtu.be/hAPFGAX2o-g" %}
 
-## Find AnyRPG Core on the Unity Asset Store
+## Find Any(MMO)RPG on the Unity Asset Store
 
-AnyRPG Core can be found on the Unity Asset Store at [https://assetstore.unity.com/packages/slug/234361](https://assetstore.unity.com/packages/slug/234361)
+Any(MMO)RPG can be found on the Unity Asset Store at [https://assetstore.unity.com/packages/slug/234361](https://assetstore.unity.com/packages/slug/234361)
 
 ## Install the Correct Unity Version
 
-The AnyRPG Unity package is exported as a complete project because it requires specific build settings, compiler settings, layers, and tags to function. Due to the way full projects are exported in Unity, they must be imported with the **same or higher** Unity version they were exported with.
+The Any(MMO)RPG Unity package is exported as a complete project because it requires specific build settings, compiler settings, layers, and tags to function. Due to the way full projects are exported in Unity, they must be imported with the **same or higher** Unity version they were exported with.
 
-You can find the correct Unity version right on the asset store page.<br>
-
-![](<../../.gitbook/assets/image (1) (1) (1) (4).png>)
+You can find the correct Unity version right on the asset store page.
 
 ## Create a New Unity 3D Project
 
@@ -26,93 +24,63 @@ Open Unity Hub and select the _Projects_ tab.  Click _New project_.
 
 ![](../../.gitbook/assets/Untitled.png)
 
-If you have multiple versions of Unity installed, you will need to select the correct editor version.  Choose 3D (URP/HDRP are not available yet), optionally name your project, and click the _Create project_ button.
+If you have multiple versions of Unity installed, you will need to select the correct editor version.  Choose Universal 3D (SRP), optionally name your project, and click the _Create project_ button.
 
-![](<../../.gitbook/assets/image (89).png>)
+<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
-## Install the AnyRPG Unity Package
+## Install the Any(MMO)RPG Unity Package
 
-Add the AnyRPG Core asset to your assets by clicking the **Add To My Assets** button on the asset store page.
+Add the Any(MMO)RPG asset to your assets by clicking the **Add To My Assets** button on the asset store page.
 
-![](<../../.gitbook/assets/image (22).png>)
+<div align="left"><figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure></div>
 
 Once the asset is added to your assets, click the **Open in Unity** button.
 
-![](<../../.gitbook/assets/image (15).png>)
+<div align="left"><figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure></div>
 
 When the package manager opens in Unity, click the Download button to download the package.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 Once the package has downloaded, the **Import** button should become available.  Click it.
 
-<img src="../../.gitbook/assets/image (3) (1) (1) (3).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 A warning window will pop up letting you know this package will overwrite all project settings.  Click **Import**.
 
 ![](<../../.gitbook/assets/image (5) (2) (1) (1).png>)
 
-A warning window will pop up prompting you to upgrade package manager dependencies.  This is necessary to ensure that packages that AnyRPG relies on, such as the Post Processing package are installed.  Click **Install/Upgrade**.
+When the Import Unity Package window appears, click **Next**.
 
-![](<../../.gitbook/assets/image (1) (2) (4).png>)
+<div align="left"><figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure></div>
 
-When the Import Unity Package window appears, click **Import**.
+Click **Import**.
 
-![](<../../.gitbook/assets/image (98).png>)
+<div align="left"><figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure></div>
 
-The AnyRPG Unity package contains hundreds of textures, icons, 3d models, and audio files.  You can expect the import to take a few minutes, even on a reasonably fast computer.
+The Any(MMO)RPG Unity package contains hundreds of textures, icons, 3d models, and audio files.  You can expect the import to take a few minutes, even on a reasonably fast computer.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
-Once the import completes, you will see errors in the console.  These will be fixed in the next step by installing UMA.
+## The Welcome Window
 
-![](<../../.gitbook/assets/image (22) (2).png>)
+The welcome window should popup once the project opens.  If not, you can find it at **Tools -> AnyRPG -> Welcome Window**.
 
-## Install UMA 2
-
-Install UMA 2 from the Unity Asset Store at [https://assetstore.unity.com/packages/3d/characters/uma-2-unity-multipurpose-avatar-35611](https://assetstore.unity.com/packages/3d/characters/uma-2-unity-multipurpose-avatar-35611)
-
-If you don't already own UMA, click _Add to My Assets_.
-
-![](<../../.gitbook/assets/image (10) (3).png>)
-
-Click _Open in Unity_.
-
-![](<../../.gitbook/assets/image (24).png>)
-
-The Unity Package Manager should open in Unity.  If you have not downloaded the package yet, click **Download**.  Then Click **Import**.
-
-![](<../../.gitbook/assets/image (1) (2) (4) (1).png>)
-
-When presented with the option, accept the defaults and click **Import**.
-
-![](<../../.gitbook/assets/image (20).png>)
-
-After the UMA package is imported, click **Clear** in the Console pane to clear any old warnings.
-
-![](<../../.gitbook/assets/image (7) (4).png>)
-
-You should no longer see any errors.
-
-![](<../../.gitbook/assets/image (17).png>)
-
-Finally, rebuild the UMA Global Library.  Choose from the main menu bar _UMA > Global Library_.
-
-![](<../../.gitbook/assets/image (99).png>)
-
-In the Global Library window, choose _File > Rebuild From Project_.
-
-![](<../../.gitbook/assets/image (18).png>)
+<div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Install TMP Essental Resources
 
-Open the Window menu in Unity and choose _TextMeshPro > Import TMP Essential Resources_.
+Click the button Import TMP Essentials
 
-![](<../../.gitbook/assets/image (4) (2).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 When presented with the option, accept the defaults and click **Import**.
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
+
+You should now see the warning has disappeared.
+
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 ## Next Steps
 

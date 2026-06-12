@@ -12,7 +12,7 @@ To create a status effect type, find (or create) the _GameName/Resources/GameNam
 
 ## Properties
 
-Status effect types do not contain any additional properties beyond the basic [Scriptable Object](/broken/pages/U8MCEn1DHvrLWUF0wgbO) properties shared by all AnyRPG data.
+Status effect types do not contain any additional properties beyond the basic [Scriptable Object](https://app.gitbook.com/s/x7Nd93HqSNPpv2JhrViE/scriptable-objects) properties shared by all AnyRPG data.
 
 ## Next Steps
 

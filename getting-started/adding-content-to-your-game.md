@@ -23,7 +23,7 @@ Intangible Content is any content that generally cannot be seen or touched direc
 
 AnyRPG uses Unity Scriptable Objects to store this type of content and loads it into an in-memory database when a game is launched.
 
-See [Scriptable Objects Introduction](/broken/pages/U8MCEn1DHvrLWUF0wgbO) for more information.
+See [Scriptable Objects Introduction](https://app.gitbook.com/s/x7Nd93HqSNPpv2JhrViE/scriptable-objects) for more information.
 
 ## Monobehaviours
 
