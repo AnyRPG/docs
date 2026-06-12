@@ -36,6 +36,17 @@ Interactable has the following properties.
 | Has Nameplate                      | Set this to true to have a nameplate appear over the object. The nameplate will show the interactable's name and any interactable options it has.                                                                        |
 | Nameplate Props                    |                                                                                                                                                                                                                          |
 
+## Locking
+
+| Name                   | Description                                                                                                                                                                                                           |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Locked                 | If true, the Interactable will be locked and require a key to interact with it. If false, the Interactable will not be locked and can be interacted with without a key.                                               |
+| Key Name               | The name of the key item required to interact with the Interactable if it is locked. This should be the resource name of the item, not the display name. If this value is blank, the Interactable will not be locked. |
+| Remove Key On Interact | If true, the key will be removed from the player's inventory when they interact with the Interactable. If false, the player will still have the key after interacting with the Interactable.                          |
+| Unlock On Interact     | If true, the Interactable will be unlocked when the player interacts with it if they have the key. If false, the player will still be able to interact with it, but it will remain locked for others.                 |
+
+
+
 ## Nameplate Props
 
 | Name                        | Description                                                                                                                                              |
