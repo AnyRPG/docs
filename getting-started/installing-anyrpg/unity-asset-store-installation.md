@@ -86,4 +86,4 @@ You should now see the warning has disappeared.
 
 Congratulations, AnyRPG is now ready to use!
 
-From here you can explore the [included sample games](../included-sample-games.md) or get started [creating your own game](../creating-your-first-game.md).
+From here you can [install optional addons](../managing-addons/), explore the [included sample games](../included-sample-games.md) or get started [creating your own game](../creating-your-first-game.md).
